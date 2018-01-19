@@ -6,4 +6,6 @@
 
 ### Software
 
-There are no additional software requirements for this resource beyond what is pre-installed in the current Raspbian image. To make sure your SD card is up-to-date, see the updating Raspbian guide.
+You will need the latest version of [Raspbian](https://www.raspberrypi.org/downloads/), which already includes the following:
+
++ Terminal

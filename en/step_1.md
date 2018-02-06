@@ -4,19 +4,32 @@ Hack the Pi’s terminal and learn basic cybersecurity skills through a Pacman t
 
 ### What you will make
 
-You will make an excellent ethical hacker after completing this treasure hunt. The project will take you on a journey through your pi's Terminal as you learn to navigate the Terminal using Bash commands.
+You will make the first steps towards being an awesome ethical hacker! The project will take you on a journey through your pi's Terminal as you learn to navigate the Terminal and protect your computer against nasty attackers.
 
 Image
 
-First, you will be introduced to your mission which will be to hack the terminal to find all the Pacman ‘ghosts’ planted in the Terminal. After figuring out which ghosts are viruses by viewing files in the terminal, you'll delete the corrupted files, solve the riddle left by Pacman, and then create your own Cybersecurity directory.
+During the treasure hunt, you will:
++ Be introduced to your mission which will be to hack the Terminal to find all the Pacman ‘ghosts’.
++ Learn how to run a script to start the treasure hunt.
++ Find the ghosts then quarantine them by creating your own safe directory.
++ Learn more about malware by inspecting the ghost files, and then get rid of them.
++ Complete a final challenge and collect enough Pac Dots to answer Pacman's riddle.
 
 ### What you will learn
 
-Creator or Builder? Maybe this could be a Pathway?
+You will learn some basic hacking and cybersecurity concepts and threats.
+
+You will also learn how to do these things in the Terminal:
++ Download and run a script
++ Navigate through your computer
++ Create a directory
++ Move files around your computer
++ Use Nano to view and exit files
++ Delete files
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
++ [Apply basic programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder/){:target="_blank"}
 
 ### Additional information for educators
 

@@ -11,6 +11,6 @@ Hackers use it all the time to ...
 
 + Type this command into the terminal:
 
-wget -O - http://.../pacman_start.sh | bash
+`wget -O - http://.../pacman_start.sh | bash`
 
 ![Pacman Start](images/pacmanstart.png)

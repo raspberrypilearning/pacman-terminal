@@ -12,6 +12,20 @@ Here we used `mkdir` to create a new directory called `quarantine/` inside the `
 
 ![MKDIR Command](images/mkdircommand.png)
 
+We are now going to catch our first ghost!
+
++ Navigate into the `Documents/` directory using the commands you learned in the last step.
+
+HINT
+
++ List all the files and directories in the `Documents` directory using the commands you learned in the last step.
+
+HINT
+
+Do you see anything strange in the directory that looks like it should not be there?
+
+INFO ABOUT WHY PPL USE SYMBOLS ETC AND CAN REFER BACK TO USE OF L .. IN A HINT?
+
 
 
 

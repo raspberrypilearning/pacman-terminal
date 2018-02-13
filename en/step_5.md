@@ -1,45 +1,44 @@
 ## Move around the pi terminal
 
+In this step, we will learn how to get Pacman to navigate the pi terminal, just like when Pacman moves around the maze.
 
+IMAGE??
 
++ After the shell prompt, type `ls` and press enter. Make sure you type the letter l as in "l????" and not the number 1.
 
-In the terminal, first you see $. This is called a shell prompt. It appears when the terminal is ready to accept a command.
-When you type ls, the command line looks at the folder you are in, and then "lists" the files and folders inside it. The directories 2014, 2015, and the file hardware.txt are the contents of the current directory.
-ls is an example of a command, a directive to the computer to perform a specific task.
-When using the command line, we refer to folders as directories. Files and directories on your computer are organized into a filesystem.
-Filesystem
-A filesystem organizes a computer's files and directories into a tree structure:
-Image of File System and File Manager
+You should get a similar result to this:
+![LS Command](images/lscommand.png)
 
-The first directory in the filesystem is the root directory. It is the parent of all other directories and files in the filesystem.
-Each parent directory can contain more child directories and files. Here blog/ is the parent of 2014/, 2015/, and hardware.txt.
-Each directory can contain more files and child directories. The parent-child relationship continues as long as directories and files are nested.
+When you type `ls`, the command line looks at the folder you are in, and then "lists" the files and **directories**, or folders, inside it. Here, we cannot see any files, because there are none at this level, but we can see lots of directories.
 
-pwd stands for "print working directory". It outputs the name of the directory you are currently in, called the working directory.
+When using the command line, we refer to folders as directories. These are all folders that you can navigate to. The contents of the current directory are therefore these directories:
+Desktop, Downloads, Pictures, python_games, Scratch Projects, Videos, Documents, Music, Public, Scratch, and Templates
 
-Here the working directory is blog/. In Codecademy courses, your working directory is usually inside the home/ccuser/workspace/ directory.
++ Now, type `pwd` and press enter.
 
-Together with ls, the pwd command is useful to show where you are in the filesystem.
+![PWD Command](images/pwdcommand.png)
 
+`pwd` stands for "print working directory". It tells you what directory you are currently in, so you will not get lost. The `pwd` command is useful because it shows where you are in the Pi's **filesystem**. We are currently in the `pi/` directory.
 
-cd stands for "change directory". Just as you would click on a folder in Windows Explorer or Finder, cd switches you into the directory you specify. In other words, cd changes the working directory.
-The directory we change into is 2015. When a file, directory or program is passed into a command, it is called an argument. Here the 2015 directory is an argument for the cd command.
-The cd command takes a directory name as an argument, and switches into that directory.
-To navigate directly to a directory, use cd with the directory's path as an argument. Here, cd jan/memory/ command navigates directly to the jan/memory directory.
-To move up one directory, use cd ... Here, cd .. navigates up from jan/memory/ to jan/.
+The filesystem is how files and directories on your computer are organised. A filesystem usually organises a computer's files and directories into a tree structure:
 
+IMAGE OF FILE SYSTEM ![File Manager](images/filemanager.png)
 
-+ Navigate to the Y
+The very first directory in the filesystem is the **root** directory. It is the parent directory of all other directories in the filesystem.
+Each parent directory can contain more child directories and files. Here `home/` is the parent of `pi/` and `pi/` is the parent of all the directories we listed above.
 
-In the terminal, after the $ type:
++ To move into a different directory, type `cd Documents/` and press enter.
 
-ls
-and press Enter. Be sure to type the letter l as in "lemon" and not the number 1.
+![CD Documents](images/cddocuments.png)
 
-You should see three items print out below the command. Click Next to learn how this command works.
+`cd` stands for stands for "change directory". Just as you can click on folders and go into them, `cd` lets you into the directory you want to go into.
 
-ls
-pwd
-cd
-cd
-cd ..
+The directory we changed into is `Documents/`. To navigate to a directory, you therefore type the command `cd` followed by the name of the directory. So here, `cd Documents/` navigated directly to the `Documents/` directory.
+
++ To move up (or back) one directory, type `cd ..` and press enter.
+
+Here, `cd ..` navigates up from `home/pi/documents` back to `home/pi/`. Here, I've checked my directory by also using the `pwd` command:
+
+![CD DotDot Command](images/cddotdotcommand.png)
+
+Now, you're ready to catch your first ghost!

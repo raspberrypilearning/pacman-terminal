@@ -13,6 +13,6 @@ In the terminal, first you see `$`. This is called a **shell prompt**. It appear
 
 + After the `$` or shell prompt, type:
 
-`wget -O - http://.../pacman_start.sh | bash`
+NEED THIS AFTER `wget -O - http://.../pacman_start.sh | bash`
 
-![Pacman Start](images/pacmanstart.png)
+NEED THIS AFTER ![Pacman Start](images/pacmanstart.png)

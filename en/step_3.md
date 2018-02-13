@@ -16,3 +16,6 @@ All
 + Open a terminal window on the Raspberry Pi. You can find the terminal here:
 
 ![Find Terminal](images/findterminal.png)
+
+
+WHERE TO INCLUDE? Please be aware that while this project introduces cybersecurity concepts, it is not a guide to removing real malware from your computer.

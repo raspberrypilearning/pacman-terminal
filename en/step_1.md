@@ -30,7 +30,7 @@ You will also learn how to do these things in terminal:
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Apply basic programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder/){:target="_blank"}
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
 ### Additional information for educators
 

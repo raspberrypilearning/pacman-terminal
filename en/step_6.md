@@ -1,11 +1,16 @@
 ## Catch and quarantine ghosts
 
-In this step, you'll create a
+In this step, you will create a quarantine folder to put your ghosts in. You will then catch all of the ghosts and quarantine them so that they stop ghosting around and harming your computer.
 
+A **quarantine folder** isolates infected files on a computer's hard disk. Quarantine folders are usually made automatically through Antivirus software, and although they usually have additional programming attached to them, you will simulate what it is like to create one. You can also also use what you learn here to create your own directories in your filesystem!
 
-The mkdir command stands for "make directory". It takes in a directory name as an argument, and then creates a new directory in the current working directory.
++ After the shell prompt, create a quarantine folder by typing `mkdir quarantine/` and pressing enter.
 
-Here we used mkdir to create a new directory named media/ inside the feb/ directory.
+`mkdir` stands for "make directory".
+
+Here we used `mkdir` to create a new directory called `quarantine/` inside the `pi/` directory. In the image, you can see that I have also checked my directory is there by using the `ls` command:
+
+![MKDIR Command](images/mkdircommand.png)
 
 
 

@@ -8,7 +8,7 @@ From the command line, you can navigate through files and folders on your comput
 
 The advantage of using the command line is its power. You can run programs, write scripts to automate common tasks, and combine simple commands to handle difficult tasks - making it an important programming tool.
 
-This course is for unix-based systems such as Linux and Mac OS X. An appendix of all commands taught in this course is available here.
+The commands used in this treasure hunt is for unix-based systems such as Linux and Mac OS X. An appendix of all commands taught in this course is available here.
 
 
 All

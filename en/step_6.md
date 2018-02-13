@@ -1,5 +1,7 @@
 ## Catch and quarantine ghosts
 
+In this step, you'll create a
+
 
 The mkdir command stands for "make directory". It takes in a directory name as an argument, and then creates a new directory in the current working directory.
 

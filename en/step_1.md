@@ -28,7 +28,7 @@ You will also learn how to do these things in terminal:
 + Use Nano to view and exit files
 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}
 
 + [Apply basic programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder/){:target="_blank"}
 

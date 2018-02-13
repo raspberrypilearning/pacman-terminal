@@ -13,19 +13,20 @@ During the treasure hunt, you will:
 + Learn how to run a script to start the treasure hunt.
 + Find the ghosts then quarantine them by creating your own safe directory.
 + Learn more about malware by inspecting the ghost files, and then get rid of them.
-+ Complete a final challenge and collect enough Pac Dots to answer Pacman's riddle.
++ Collect enough Pac Dots to answer Pacman's riddle.
 
 ### What you will learn
 
 You will learn some basic hacking and cybersecurity concepts and threats.
 
-You will also learn how to do these things in the terminal:
+You will also learn how to do these things in terminal:
 + Download and run a script
 + Navigate through your computer
 + Create a directory
-+ Move files around your computer
-+ Use Nano to view and exit files
++ Copy and move files around your computer
 + Delete files
++ Use Nano to view and exit files
+
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 

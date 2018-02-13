@@ -10,6 +10,6 @@ You will need the latest version of [Raspbian](https://www.raspberrypi.org/downl
 
 + Terminal
 
-You will also need to download the following folder, however detailed instructions will be given in the next step (step 3).
+You will also need to download the following folder, however detailed instructions will be given in step 4.
 
 ADD FOLDER

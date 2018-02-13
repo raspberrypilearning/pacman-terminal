@@ -37,7 +37,9 @@ The directory we changed into is `Documents/`. To navigate to a directory, you t
 
 + To move up (or back) one directory, type `cd ..` and press enter.
 
-Here, `cd ..` navigates up from `home/pi/documents` back to `home/pi/`. In the image, you can see that I have also checked my directory by using the `pwd` command:
+Here, `cd ..` navigates up from `home/pi/documents` back to `home/pi/`.
+
+In the image below, you can see that I have also checked my directory by using the `pwd` command:
 
 ![CD DotDot Command](images/cddotdotcommand.png)
 

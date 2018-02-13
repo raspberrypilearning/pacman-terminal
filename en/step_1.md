@@ -1,6 +1,6 @@
 ## Introduction
 
-Hack the Pi’s terminal and learn basic cybersecurity skills through a Pacman themed treasure hunt..
+Hack the Pi’s terminal and learn basic cybersecurity skills through a Pacman themed treasure hunt.
 
 ### What you will make
 

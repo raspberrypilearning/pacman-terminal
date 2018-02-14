@@ -15,6 +15,7 @@ mkdir quarantine/
 
 ![MKDIR Command](images/mkdircommand.png)
 
+
 ### We are now going to catch our first ghost!
 
 + Navigate into the **Documents/** directory using the commands you learned in the last step.
@@ -29,7 +30,8 @@ Do you see anything strange in the directory that looks like it should not be th
 
 INFO ABOUT WHY PPL USE SYMBOLS ETC AND CAN REFER BACK TO USE OF L .. IN A HINT?
 
-### Copying Files
+
+### Copying files
 
 + Copy the ghost and put it in the quarantine folder by typing:
 ```bash
@@ -38,6 +40,7 @@ cp sp00ky.txt home/pi/Documents/quarantine/
 `cp` is followed by the name of the file to copy and then the directory you want it copied into. Here, we copied the file **sp00ky.txt** and placed it in the **quarantine/** folder.
 
 IMAGE
+
 
 ### Removing Files
 
@@ -49,4 +52,7 @@ rm sp00ky.txt
 
 IMAGE
 
-Be careful when you use rm! It deletes files and directories permanently. There isn't an undelete command, so once you delete a file or directory with rm, it's gone. This is why we copied the file into a new directory before removing it.
+Be careful using `rm` because it deletes files and directories permanently. There isn't an undelete command, so once you delete a file or directory with rm, it's gone. This is why we copied the file into a new directory before removing it.
+
+
+### Catch all the Ghosts

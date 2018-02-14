@@ -5,7 +5,7 @@ In this step, we will learn how to get Pacman to navigate the pi terminal, just 
 ![Pacman Gif](images/pacmangiphy.gif)
 
 
-### Listing Directory Content
+### Listing directory content
 
 + After the shell prompt, type `ls` and press enter. Make sure you type the letter l as in "lime" and not the number 1.
 ```bash

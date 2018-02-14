@@ -7,7 +7,7 @@ In this step, we will learn how to get Pacman to navigate the pi terminal, just 
 ### Listing Directory Content (`ls`)
 
 + After the shell prompt, type `ls` and press enter. Make sure you type the letter l as in "lime" and not the number 1.
-``` bash
+```bash
 ls
 ```
 
@@ -22,7 +22,7 @@ The directory, or folder we are in, therefore contains these directories:
 ### Print Working Directory (`pwd`)
 
 + Now, type `pwd` and press enter.
-``` bash
+```bash
 pwd
 ```
 
@@ -38,7 +38,7 @@ IMAGE OF FILE SYSTEM CHANGE FILEMANAGER IMAGE TOO ![File Manager](images/fileman
 ### Changing Directory (`cd`)
 
 + To move into a different directory, type `cd Documents/` and press enter.
-``` bash
+```bash
 cd Documents/
 ```
 
@@ -53,7 +53,7 @@ The terminal also tells us that we are in **Documents/**:
 ### Moving Directory (`cd ..`)
 
 + Move up (or back) one directory by typing `cd ..` and pressing enter.
-``` bash
+```bash
 cd ..
 ```
 

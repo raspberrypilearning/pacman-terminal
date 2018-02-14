@@ -4,7 +4,7 @@ In this step, we will learn how to get Pacman to navigate the pi terminal, just 
 
 IMAGE??
 
-+ After the shell prompt, type `ls` and press enter. Make sure you type the letter l as in "l????" and not the number 1.
++ After the shell prompt, type `ls` and press enter. Make sure you type the letter l as in "lime" and not the number 1.
 
 You should get a similar result to this:
 ![LS Command](images/lscommand.png)
@@ -16,6 +16,7 @@ Desktop, Downloads, Pictures, python_games, Scratch Projects, Videos, Documents,
 
 + Now, type `pwd` and press enter.
 
+This is what you should get (results in the red box):
 ![PWD Command](images/pwdcommand.png)
 
 `pwd` stands for "print working directory". It tells you what directory you are currently in, so you will not get lost. The `pwd` command is useful because it shows where you are in the Pi's **filesystem**. We are currently in the `pi/` directory.
@@ -33,7 +34,9 @@ Each parent directory can contain more child directories and files. Here `home/`
 
 `cd` stands for stands for "change directory". Just as you can click on folders and go into them, `cd` lets you into the directory you want to go into.
 
-The directory we changed into is `Documents/`. To navigate to a directory, you therefore type the command `cd` followed by the name of the directory. So here, `cd Documents/` navigated directly to the `Documents/` directory.
+The directory we changed into is `Documents/`. To navigate to a directory, you therefore type the command `cd` followed by the name of the directory. So here, `cd Documents/` navigated directly to the `Documents/` directory, and you can see what directory you are in here:
+
+![CD Documents path](images/cddocumentspath.png)
 
 + To move up (or back) one directory, type `cd ..` and press enter.
 

@@ -63,4 +63,4 @@ I also quickly checked my directory by using the `pwd` command:
 
 ![CD DotDot Command](images/cddotdotcommand.png)
 
-Now, you're ready to catch your first ghost!
+Now you're ready to catch your first ghost!

@@ -11,7 +11,6 @@ In this step, we will learn how to get Pacman to navigate the pi terminal, just 
 ```bash
 ls
 ```
-
 You should get a similar result to this:
 ![LS Command](images/lscommand.png)
 
@@ -27,7 +26,6 @@ The directory, or folder we are in, therefore contains these directories:
 ```bash
 pwd
 ```
-
 This is what you should get (results in the red box):
 ![PWD Command](images/pwdcommand.png)
 
@@ -44,7 +42,6 @@ IMAGE OF FILE SYSTEM CHANGE FILEMANAGER IMAGE TOO ![File Manager](images/fileman
 ```bash
 cd Documents/
 ```
-
 ![CD Documents](images/cddocuments.png)
 
 `cd` stands for stands for "change directory". Just as you can click on folders and go into them, `cd` lets you into the directory you want to go into. To get into a directory, you type the command `cd` followed by the name of the directory. So here, `cd Documents/` navigated directly to the **Documents/** directory,
@@ -60,7 +57,6 @@ The terminal also tells us that we are in **Documents/**:
 ```bash
 cd ..
 ```
-
 `cd ..` navigated up from **home/pi/documents** back to **home/pi/**.
 
 I also quickly checked my directory by using the `pwd` command:

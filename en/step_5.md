@@ -4,6 +4,8 @@ In this step, we will learn how to get Pacman to navigate the pi terminal, just 
 
 IMAGE??
 
+### Listing Directory Content (`ls`)
+
 + After the shell prompt, type `ls` and press enter. Make sure you type the letter l as in "lime" and not the number 1.
 
 You should get a similar result to this:
@@ -13,6 +15,8 @@ When you type `ls`, the command line looks at the folder you are in, and then "l
 
 When using the command line, we refer to folders as directories. These are all folders that you can navigate to. The contents of the current directory are therefore these directories:
 Desktop, Downloads, Pictures, python_games, Scratch Projects, Videos, Documents, Music, Public, Scratch, and Templates
+
+### Print Working Directory (`pwd`)
 
 + Now, type `pwd` and press enter.
 
@@ -28,6 +32,8 @@ IMAGE OF FILE SYSTEM ![File Manager](images/filemanager.png)
 The very first directory in the filesystem is the **root** directory. It is the parent directory of all other directories in the filesystem.
 Each parent directory can contain more child directories and files. Here `home/` is the parent of `pi/` and `pi/` is the parent of all the directories we listed above.
 
+### Changing Directory (`cd`)
+
 + To move into a different directory, type `cd Documents/` and press enter.
 
 ![CD Documents](images/cddocuments.png)
@@ -37,6 +43,8 @@ Each parent directory can contain more child directories and files. Here `home/`
 The directory we changed into is `Documents/`. To navigate to a directory, you therefore type the command `cd` followed by the name of the directory. So here, `cd Documents/` navigated directly to the `Documents/` directory, and you can see what directory you are in here:
 
 ![CD Documents path](images/cddocumentspath.png)
+
+### Moving Directory (`cd ..`)
 
 + To move up (or back) one directory, type `cd ..` and press enter.
 

@@ -1,6 +1,6 @@
 ## Catch and quarantine ghosts
 
-In this step, you will create a quarantine folder to put your ghosts in. You will then catch all of the ghosts and quarantine them so that they stop ghosting around and harming your computer.
+In this step, you will create a quarantine folder to put your ghosts in. You will then catch all of the ghosts and quarantine them so that they stop ghosting around like viruses do, and harming your computer.
 
 A **quarantine folder** isolates infected files on a computer's hard disk. Quarantine folders are usually made automatically through Antivirus software, and although they usually have additional programming attached to them, you will simulate what it is like to create one. You can also also use what you learn here to create your own directories in your filesystem!
 

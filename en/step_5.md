@@ -2,7 +2,7 @@
 
 In this step, we will learn how to get Pacman to navigate the pi terminal, just like when Pacman moves around the maze.
 
-IMAGE??
+![Pacman Gif](images/pacmangiphy.gif)
 
 ### Listing Directory Content (`ls`)
 

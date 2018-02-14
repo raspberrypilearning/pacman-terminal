@@ -55,4 +55,4 @@ IMAGE
 Be careful using `rm` because it deletes files and directories permanently. There isn't an undelete command, so once you delete a file or directory with rm, it's gone. This is why we copied the file into a new directory before removing it.
 
 
-### Catch all the Ghosts
+### Catch all the ghosts

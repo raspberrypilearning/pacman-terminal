@@ -13,7 +13,7 @@ During the treasure hunt, you will:
 + Learn how to run a script to start the treasure hunt.
 + Find the ghosts then quarantine them by creating your own safe directory.
 + Learn more about malware by inspecting the ghost files, and then get rid of them.
-+ Collect enough Pac Dots to answer Pacman's riddle.
++ Collect enough treasure points to answer Pacman's riddle.
 
 ### What you will learn
 

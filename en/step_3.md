@@ -1,6 +1,20 @@
 ## Your mission
 
-Do this in vim?
+For this project, you will be Pacman:
+
+![Pacman Image](images/pacmancharacter.png)
+
+Instead of just being a hungry yellow dot, you are also an ethical hacker. However, there is a huge problem with your computer system. It is being attacked by nasty viruses. These viruses are the Pacman ghosts:
+
+|                                              |                                              |
+| :------------------------------------------: | :------------------------------------------: |
+| ![Blinky Ghost](images/ghostblinky.png)      | Blinky                                       |
+| ![Inky Ghost](images/ghostinky.png)          | Inky                                         |
+| ![Pinky Ghost](images/ghostpinky.png)        | Pinky                                        |
+| ![Clyde Ghost](images/ghostclyde.png)        | Clyde                                        |
+| ![Funky Ghost](images/ghostfunky.png)        | Funky                                        |
+| ![Spooky Ghost](images/ghostspooky.png)      | Spooky                                       |
+| ![Sue Ghost](images/ghostsue.png)            | Sue                                          | 
 
 The command line is a text interface for your computer. It's a program that takes in commands, which it passes on to the computer's operating system to run.
 

@@ -54,9 +54,9 @@ cd Documents/
 ```
 ![CD Documents](images/cddocuments.png)
 
-Here, `cd Documents/` navigated directly to the **Documents/** directory.
+Here, we navigated into the **Documents/** directory.
 
-The terminal also tells us that we are in **Documents/**:
+The terminal tells us that we are in **Documents/**:
 
 ![CD Documents path](images/cddocumentspath.png)
 

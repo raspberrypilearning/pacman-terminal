@@ -19,7 +19,7 @@ You should get a similar result to this:
 Here, we cannot see any files, because there are none at this level, but we can see lots of directories. When using the terminal, folders are called directories.
 
 The directory, or folder we are in, therefore contains these directories:
-**Desktop, Downloads, Pictures, python_games, Scratch Projects, Videos, Documents, Music, Public, Scratch, and Templates**
+*Desktop, Downloads, Pictures, python_games, Scratch Projects, Videos, Documents, Music, Public, Scratch, and Templates*
 
 
 ### Print Working Directory

@@ -42,6 +42,7 @@ The filesystem is how files and directories on your computer are organised. A fi
 | ![File Manager](images/filemanager.png)      | ![File Tree](images/filetree.png)            |
 
 
+
 ### Changing Directory
 
 `cd` stands for stands for "change directory". Just as you can click on folders and go into them, `cd` lets you into the directory you want to go into. To get into a directory, you type the command `cd` followed by the name of the directory.

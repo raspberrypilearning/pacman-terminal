@@ -39,9 +39,7 @@ The filesystem is how files and directories on your computer are organised. A fi
 
 |                                              |                                              |
 | :------------------------------------------: | :------------------------------------------: |
-|                                              |                                              |
-
-IMAGE OF FILE SYSTEM CHANGE FILEMANAGER IMAGE TOO ![File Manager](images/filemanager.png)
+| ![File Manager](images/filemanager.png)      | ![File Tree](images/filetree.png)            |
 
 
 ### Changing Directory
@@ -56,7 +54,7 @@ cd Documents/
 
 Here, we navigated into the **Documents/** directory.
 
-The terminal tells us that we are in **Documents/**:
+The terminal tells us here that we are in **Documents/**:
 
 ![CD Documents path](images/cddocumentspath.png)
 

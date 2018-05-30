@@ -63,7 +63,7 @@ You can also also use what you learn here to create your own directories in your
   ```
   `cp` is followed by the name of the file to copy and then the directory you want it copied into. Here, we copied the file **sp00ky.txt** and placed it in the **quarantine/** folder.
 
-IMAGE
+IMAGE???? (ALSO SEE IF IMAGE BELOW)
 
 
 ### Removing Files
@@ -72,14 +72,14 @@ IMAGE
 ```bash
 rm sp00ky.txt
 ```
-`rm` deletes files and directories. Here we have removed **sp00ky.txt** from the filesystem.
-
-IMAGE
+`rm` deletes files and directories. Here we have removed **sp00ky.txt** from the filesystem to stop it from doing damage.
 
 Be careful using `rm` because it deletes files and directories permanently. There isn't an undelete command, so once you delete a file or directory with `rm`, it's gone. This is why we copied the file into a new directory before removing it.
 
 
 ### Catch all the ghosts
+
++ Now use all the commands you have learned in the last step and this step, to move around and find, catch and quarantine all the ghosts.
 
 Here's a reminder of all the commands you need to navigate the terminal:
 

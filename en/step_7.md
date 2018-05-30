@@ -37,8 +37,11 @@ Here is all the treasure you can collect and the points you get when you find so
 
   IMAGE!!!
 
-3. Use the program below to enter your treasure and tally up your points and then repeat the last three steps for all of your ghost files.
+3. Using the program below, click on the treasure you find to tally up your points and then repeat these last three steps for all of your ghost files.
 
-  When you've finished entering in all the treasure you find, click FINISH THIS >>>>
+  When you've finished clicking all the treasure you have found, click FINISH THIS >>>>
 
-  EMBED.. Scratch?
+  <div class="scratch-preview">
+    <iframe allowtransparency="true" frameborder="0" src="https://scratch.mit.edu/projects/embed/226468273/?autostart=false" >
+    </iframe>
+  </div>

@@ -9,6 +9,6 @@ Here's a reminder of all the commands you need to navigate the terminal:
 Tips:
 1. Remember to copy the ghosts to the quarantine folder before removing them
 2. Navigate to your quarantine folder to see how many ghosts you've caught
-3. There are 8 ghosts in total, can you catch them all?
+3. There are 7 ghosts in total, can you catch them all?
 
 Once you have caught as many ghosts as possible, you can collect your treasure in the next step!

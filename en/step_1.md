@@ -12,7 +12,7 @@ During the treasure hunt, you will:
 + Be introduced to your mission which will be to hack the terminal to find all the Pacman ‘ghosts’.
 + Learn how to run a script to start the treasure hunt.
 + Find the ghosts then quarantine them by creating your own safe directory.
-+ Learn more about malware by inspecting the ghost files, and then get rid of them.
++ Learn more about malware by inspecting the ghost files, and getting rid of them.
 + Collect enough treasure points to complete the treasure hunt.
 
 --- collapse ---

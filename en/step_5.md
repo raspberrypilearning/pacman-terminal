@@ -48,7 +48,7 @@ You can also use what you learn here to create your own directories in your file
   ls
   ```
   --- /hint ---
-  --- hints ---
+  --- /hints ---
 
 + Look at the directories. Do you see anything strange that looks like it should not be there?
 

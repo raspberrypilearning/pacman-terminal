@@ -41,7 +41,7 @@ Here is all the treasure you can collect and the points you get when you find so
 
   When you've finished clicking all the treasure you have found, click the 'Finish' button to see how you did.
 
-  <div class="scratch-preview">
-    <iframe allowtransparency="true" frameborder="0" src="https://scratch.mit.edu/projects/embed/226468273/?autostart=false" >
-    </iframe>
-  </div>
+<div class="scratch-preview">
+  <iframe allowtransparency="true" frameborder="0" src="https://scratch.mit.edu/projects/embed/226468273/?autostart=false" >
+  </iframe>
+</div>

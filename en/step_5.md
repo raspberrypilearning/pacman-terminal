@@ -29,6 +29,10 @@ You can also use what you learn here to create your own directories in your file
   --- /hint ---
   --- hint ---
   If that did not work, type `cd` first to navigate into your home directory, then try `cd Documents/`
+  ```
+  cd
+  cd Documents/
+  ```
   --- /hint ---
   --- /hints ---
 
@@ -37,6 +41,12 @@ You can also use what you learn here to create your own directories in your file
   --- hints ---
   --- hint ---
   Can you find out which command you would use in the dropdown information from the step above?
+  --- /hint ---
+  --- hint ---
+  Use:
+  ```
+  ls
+  ```
   --- /hint ---
   --- hints ---
 

@@ -1,10 +1,10 @@
-## Catch and quarantine ghosts
+## Catch and quarantine your first ghost
 
 In this step, you will create a quarantine folder to put your ghosts in. You will then catch all of the ghosts and quarantine them so that they stop ghosting around and harming your computer like viruses do.
 
 A **quarantine folder** isolates suspicious files so they cannot harm your computer. They are usually made automatically through Antivirus software and have additional programming attached to them, however you will simulate what it is like to create one.
 
-You can also also use what you learn here to create your own directories in your filesystem!
+You can also use what you learn here to create your own directories in your filesystem!
 
 + After the shell prompt, create a quarantine folder by typing `mkdir quarantine/` and pressing enter.
   ```
@@ -69,18 +69,9 @@ IMAGE???? (ALSO SEE IF IMAGE BELOW)
 ### Removing Files
 
 + Now remove the ghost by typing:
-```bash
-rm sp00ky.txt
-```
-`rm` deletes files and directories. Here we have removed **sp00ky.txt** from the filesystem to stop it from doing damage.
+  ```bash
+  rm sp00ky.txt
+  ```
+  `rm` deletes files and directories. Here we have removed **sp00ky.txt** from the filesystem to stop it from doing damage.
 
-Be careful using `rm` because it deletes files and directories permanently. There isn't an undelete command, so once you delete a file or directory with `rm`, it's gone. This is why we copied the file into a new directory before removing it.
-
-
-### Catch all the ghosts
-
-+ Now use all the commands you have learned in the last step and this step, to move around and find, catch and quarantine all the ghosts.
-
-Here's a reminder of all the commands you need to navigate the terminal:
-
-[[[command-line-navigation]]]
+  Be careful using `rm` because it deletes files and directories permanently. There isn't an undelete command, so once you delete a file or directory with `rm`, it's gone. This is why we copied the file into a new directory before removing it.

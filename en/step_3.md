@@ -10,9 +10,11 @@ You can easily download anything and open it from the terminal using **bash**. B
 
   ![Shell Prompt](images/shellprompt.png)
 
-+ After the `$` or shell prompt, type:
++ After the `$` or shell prompt, type or copy and paste:
 
-NEED THIS AFTER `wget -O - http://.../pacman_start.sh | bash`
+  ```
+  wget -O - https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources/pacman_start.sh | bash
+  ```
 
 NEED THIS AFTER ![Pacman Start](images/pacmanstart.png)
 

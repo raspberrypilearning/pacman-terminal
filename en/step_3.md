@@ -15,3 +15,5 @@ In the terminal, you will see `$`. This is called a **shell prompt**. It appears
 NEED THIS AFTER `wget -O - http://.../pacman_start.sh | bash`
 
 NEED THIS AFTER ![Pacman Start](images/pacmanstart.png)
+
+Next, learn how to navigate the command line so you can start finding and catching ghosts.

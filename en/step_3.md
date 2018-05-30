@@ -6,9 +6,9 @@ You can easily download anything and open it from the terminal using **bash**. B
 
 + To access bash, make sure you have opened a terminal window.
 
-In the terminal, you will see `$`. This is called a **shell prompt**. It appears when the terminal is ready to accept a command.
+  In the terminal, you will see `$`. This is called a **shell prompt**. It appears when the terminal is ready to accept a command.
 
-![Shell Prompt](images/shellprompt.png)
+  ![Shell Prompt](images/shellprompt.png)
 
 + After the `$` or shell prompt, type:
 

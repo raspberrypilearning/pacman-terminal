@@ -54,7 +54,7 @@ You can also use what you learn here to create your own directories in your file
 
   --- collapse ---
   ---
-  title: You've found your first ghost!
+  title: Click here when you've found your first ghost! 
   ---
   That strange file named `sp00ky.txt` is a virus. If you've spotted it, you have found the ghost.
 

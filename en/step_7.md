@@ -26,20 +26,20 @@ Here is all the treasure you can collect and the points you get when you find so
 
 ### Collect your treasure
 
-1. See what treasure you got from catching Spooky
++ See what treasure you got from catching Spooky
 
   To view a text file, type `cat` followed by the full name of the file
   ```
   cat sp00ky.txt
   ```
 
-2. You should see some treasure
++ You should see some treasure
 
   IMAGE!!!
 
-3. Using the program below, click on the treasure you find to tally up your points and then repeat these last three steps for all of your ghost files.
++ Using the program below, click on the treasure you find to tally up your points and then repeat these last three steps for all of your ghost files.
 
-  When you've finished clicking all the treasure you have found, click FINISH THIS >>>>
+  When you've finished clicking all the treasure you have found, click the 'Finish' button to see how you did.
 
   <div class="scratch-preview">
     <iframe allowtransparency="true" frameborder="0" src="https://scratch.mit.edu/projects/embed/226468273/?autostart=false" >

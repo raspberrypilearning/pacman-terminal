@@ -16,14 +16,12 @@ Here is all the treasure you can collect and the points you get when you find so
 | ![Key](images/fruitkey.png)                  | Key                                          | 5000                                         |
 
 + Navigate to your **quarantine/** directory and list the contents of the directory to see all the ghosts you have caught
-  --- hints ---
   --- hint ---
   ```
   cd quarantine/
   ls
   ```
   --- /hint ---
-  --- /hints ---
 
 ### Collect your treasure
 

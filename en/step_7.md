@@ -37,7 +37,7 @@ Here is all the treasure you can collect and the points you get when you find so
 
   IMAGE!!!
 
-+ Using the program below, click on the treasure you find to tally up your points and then repeat these last three steps for all of your ghost files.
++ Using the program below, click on the treasure you find to tally up your points and then repeat these last three instructions to collect treasure in all of your ghost files.
 
   When you've finished clicking all the treasure you have found, click the 'Finish' button to see how you did.
 

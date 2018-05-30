@@ -15,7 +15,33 @@ During the treasure hunt, you will:
 + Learn more about malware by inspecting the ghost files, and then get rid of them.
 + Collect enough treasure points to answer Pacman's riddle.
 
-### What you will learn
+--- collapse ---
+
+---
+title: What you will need
+---
+
+### Hardware
+
++ Raspberry Pi with SD Card and Peripherals
+
+### Software
+
+You will need the latest version of [Raspbian](https://www.raspberrypi.org/downloads/), which already includes the following:
+
++ Terminal
+
+You will also need to download the following folder, however detailed instructions will be given in step 4.
+
+ADD FOLDER
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: What you will learn
+---
 
 You will learn some basic hacking and cybersecurity concepts and threats.
 
@@ -27,15 +53,8 @@ You will also learn how to do these things in terminal:
 + Delete files
 + Use Nano to view and exit files
 
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+- [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/)
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
-
-Note: Please be aware that while this project introduces cybersecurity concepts, it is not a guide to removing real malware from your computer.
+--- /collapse ---

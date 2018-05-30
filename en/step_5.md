@@ -1,75 +1,58 @@
-## Move around the pi terminal
+## Catch and quarantine ghosts
 
-In this step, we will learn how to get Pacman to navigate the pi terminal, just like when Pacman moves around the maze.
+In this step, you will create a quarantine folder to put your ghosts in. You will then catch all of the ghosts and quarantine them so that they stop ghosting around like viruses do and harming your computer.
 
-![Pacman Gif](images/pacmangiphy.gif)
+A **quarantine folder** isolates suspicious files so they cannot harm your computer. They are usually made automatically through Antivirus software and have additional programming attached to them, however you will simulate what it is like to create one.
 
+You can also also use what you learn here to create your own directories in your filesystem!
 
-### Listing directory content
++ After the shell prompt, create a quarantine folder by typing `mkdir quarantine/` and pressing enter.
+```bash
+mkdir quarantine/
+```
 
-`ls` looks at the folder you are in then "lists" the files and **directories** inside it.
+`mkdir` stands for "make directory". We used `mkdir` to create a new directory called **quarantine/** inside the **pi/** directory. In the image, you can see that I have also checked my directory exists by using `ls`:
 
-+ After the shell prompt, type `ls` and press enter. Make sure you type the letter l as in "lime" and not the number 1.
-  ```bash
-  ls
-  ```
-  You should get a similar result to this:
-  ![LS Command](images/lscommand.png)
-
-  Here, we cannot see any files, because there are none at this level, but we can see lots of directories. When using the terminal, folders are called directories.
-
-  The directory, or folder we are in, therefore contains these directories:
-  *Desktop, Downloads, Pictures, python_games, Scratch Projects, Videos, Documents, Music, Public, Scratch, and Templates*
+![MKDIR Command](images/mkdircommand.png)
 
 
-### Print Working Directory
+### We are now going to catch our first ghost!
 
-`pwd` stands for "print working directory". It tells you what directory you are currently in so you will not get lost. It shows where you are in the Pi's **filesystem**
++ Navigate into the **Documents/** directory using the commands you learned in the last step.
 
-+ Type `pwd` and press enter.
-  ```bash
-  pwd
-  ```
-  This is what you should get (results in the red box):
-  ![PWD Command](images/pwdcommand.png)
+HINT
 
-  Here we can see we are in the **pi/** directory.
++ List all the files and directories in the **Documents/** directory using the commands you learned in the last step.
 
-  The filesystem is how files and directories on your computer are organised. A filesystem usually organises a computer's files and directories into a tree structure:
+HINT
 
-  |                                              |                                              |
-  | :------------------------------------------: | :------------------------------------------: |
-  | ![File Manager](images/filemanager.png)      | ![File Tree](images/filetree.png)            |
+Do you see anything strange in the directory that looks like it should not be there?
+
+INFO ABOUT WHY PPL USE SYMBOLS ETC AND CAN REFER BACK TO USE OF L .. IN A HINT?
 
 
+### Copying files
 
-### Changing Directory
++ Copy the ghost and put it in the quarantine folder by typing:
+```bash
+cp sp00ky.txt home/pi/Documents/quarantine/
+```
+`cp` is followed by the name of the file to copy and then the directory you want it copied into. Here, we copied the file **sp00ky.txt** and placed it in the **quarantine/** folder.
 
-`cd` stands for stands for "change directory". Just as you can click on folders and go into them, `cd` lets you into the directory you want to go into. To get into a directory, you type the command `cd` followed by the name of the directory.
-
-+ To move into a different directory, type `cd Documents/` and press enter.
-  ```bash
-  cd Documents/
-  ```
-  ![CD Documents](images/cddocuments.png)
-
-  Here, we navigated into the **Documents/** directory.
-
-  The terminal tells us here that we are in **Documents/**:
-
-  ![CD Documents path](images/cddocumentspath.png)
+IMAGE
 
 
-### Moving Directory
+### Removing Files
 
-+ Move up (or back) one directory by typing `cd ..` and pressing enter.
-  ```bash
-  cd ..
-  ```
-  `cd ..` navigated up from **home/pi/documents** back to **home/pi/**.
++ Now remove the ghost by typing:
+```bash
+rm sp00ky.txt
+```
+`rm` deletes files and directories. Here we have removed **sp00ky.txt** from the filesystem.
 
-  I also quickly checked my directory by using the `pwd` command:
+IMAGE
 
-  ![CD DotDot Command](images/cddotdotcommand.png)
+Be careful using `rm` because it deletes files and directories permanently. There isn't an undelete command, so once you delete a file or directory with `rm`, it's gone. This is why we copied the file into a new directory before removing it.
 
-Now you're ready to catch your first ghost!
+
+### Catch all the ghosts

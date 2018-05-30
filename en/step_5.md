@@ -7,7 +7,7 @@ A **quarantine folder** isolates suspicious files so they cannot harm your compu
 You can also also use what you learn here to create your own directories in your filesystem!
 
 + After the shell prompt, create a quarantine folder by typing `mkdir quarantine/` and pressing enter.
-  ```bash
+  ```
   mkdir quarantine/
   ```
 
@@ -23,7 +23,7 @@ You can also also use what you learn here to create your own directories in your
   --- hints ---
   --- hint ---
   Type this into your terminal:
-  ```bash
+  ```
   cd Documents/
   ```
   --- /hint ---
@@ -58,7 +58,7 @@ You can also also use what you learn here to create your own directories in your
 ### Copying files
 
 + Copy the ghost and put it in the quarantine folder by typing:
-  ```bash
+  ```
   cp sp00ky.txt home/pi/Documents/quarantine/
   ```
   `cp` is followed by the name of the file to copy and then the directory you want it copied into. Here, we copied the file **sp00ky.txt** and placed it in the **quarantine/** folder.

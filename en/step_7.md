@@ -1,7 +1,8 @@
 ## Find the treasure
 
-Now that you have found all the ghosts and put them in a safe folder so they cannot destroy your computer, you will look inside the files, and decode the puzzle to finish the treasure hunt and figure out
+Now that you have found all the ghosts and put them in a safe folder so they cannot destroy your computer, you will look inside the files, and decode the puzzle to finish the treasure hunt.
 
+Here is all the treasure you can collect and the points you get when you find some treasure:
 
 | Treasure                                     |                                              | Points                                       |
 | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
@@ -13,3 +14,31 @@ Now that you have found all the ghosts and put them in a safe folder so they can
 | ![Galaxian Boss](images/fruitgalaxian.png)   | Galaxian Boss                                | 2000                                         |
 | ![Bell](images/fruitbell.png)                | Bell                                         | 3000                                         |
 | ![Key](images/fruitkey.png)                  | Key                                          | 5000                                         |
+
++ Navigate to your **quarantine/** directory and list the contents of the directory to see all the ghosts you have caught
+
+  --- hint ---
+  ```
+  cd quarantine/
+  ls
+  ```
+  --- /hint ---
+
+### Collect your treasure
+
+1. See what treasure you got from catching Spooky
+
+  To view a text file, type `cat` followed by the full name of the file
+  ```
+  cat sp00ky.txt
+  ```
+
+2. You should see some treasure
+
+  IMAGE!!!
+
+3. Use the program below to enter your treasure and tally up your points and then repeat the last three steps for all of your ghost files.
+
+  When you've finished entering in all the treasure you find, click FINISH THIS >>>>
+
+  EMBED.. Scratch?

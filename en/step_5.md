@@ -79,7 +79,7 @@ IMAGE???? (ALSO SEE IF IMAGE BELOW)
 ### Removing Files
 
 + Now remove the ghost by typing:
-  ```bash
+  ```
   rm sp00ky.txt
   ```
   `rm` deletes files and directories. Here we have removed **sp00ky.txt** from the filesystem to stop it from doing damage.

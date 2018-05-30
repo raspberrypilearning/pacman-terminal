@@ -17,17 +17,16 @@ Here is all the treasure you can collect and the points you get when you find so
 
 + Navigate to your **quarantine/** directory and list the contents of the directory to see all the ghosts you have caught
 
-  --- hint ---
+  --- hints ---
   ```
   cd quarantine/
   ls
   ```
-  --- /hint ---
+  --- /hints ---
 
 ### Collect your treasure
 
 + See what treasure you got from catching Spooky
-
   To view a text file, type `cat` followed by the full name of the file
   ```
   cat sp00ky.txt

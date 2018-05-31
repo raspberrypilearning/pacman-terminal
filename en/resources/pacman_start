@@ -1,5 +1,16 @@
 #!/bin/sh
 
+DIRECTORIES=(
+    /home/pi/Pictures
+    /home/pi/Desktop
+    /home/pi/Templates
+    /home/pi/python_games
+    /home/pi/Documents
+    /home/pi/Documents/Greenfoot\ Projects
+    /home/pi/Music)
+
+for dir in $DIRECTORIES; do mkdir -p $dir; done
+
 wget https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources/8linky.txt -P /home/pi/Pictures
 wget https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources//PiNkY.txt -P /home/pi/Desktop
 wget https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources//1nky.txt -P /home/pi/Templates

@@ -1,8 +1,8 @@
 ## Find the treasure
 
-Now that you have found all the ghosts and put them in a safe folder so they cannot destroy your computer, you will look inside the files, and decode the puzzle to finish the treasure hunt.
+Now that you have found all the ghosts and put them in a safe folder so they cannot destroy your computer, you will look inside the files to collect your treasure.
 
-Here is all the treasure you can collect and the points you get when you find some treasure:
+Here is all the treasure you can collect and the points you get when you find the treasure:
 
 | Treasure                                     |                                              | Points                                       |
 | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
@@ -19,7 +19,7 @@ Here is all the treasure you can collect and the points you get when you find so
 
   --- hints ---
   --- hint ---
-  Try using the `cd` command followed by the name of the directory, then use the `ls` command
+  Use the `cd` command followed by the name of the directory, then use the `ls` command
   --- /hint ---
   --- hint ---
   ```

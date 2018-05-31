@@ -12,7 +12,7 @@ You can easily download anything and open it from the terminal using **bash**. B
 
 + After the `$` or shell prompt, type or copy and paste:
 
-  `wget -O - https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources/pacman_start.sh | bash`
+  `wget -O - http://rpf.io/pacmanstart | bash`
 
 NEED THIS AFTER ![Pacman Start](images/pacmanstart.png)
 

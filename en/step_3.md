@@ -14,6 +14,8 @@ You can easily download anything and open it from the terminal using **bash**. B
 
   `wget -O - http://rpf.io/pacmanstart | bash`
 
-NEED THIS AFTER ![Pacman Start](images/pacmanstart.png)
+  You will see a lot of text appear in the terminal, this means it is downloading the files to start the treasure hunt.
+
++ Press `Ctrl l` to clear the terminal
 
 Next, learn how to navigate the command line so you can start finding and catching ghosts.

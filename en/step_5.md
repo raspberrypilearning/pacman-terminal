@@ -54,7 +54,7 @@ You can also use what you learn here to create your own directories in your file
 
   --- collapse ---
   ---
-  title: Click here when you've found your first ghost! 
+  title: Click here when you've found your first ghost!
   ---
   That strange file named `sp00ky.txt` is a virus. If you've spotted it, you have found the ghost.
 
@@ -85,3 +85,5 @@ IMAGE???? (ALSO SEE IF IMAGE BELOW)
   `rm` deletes files and directories. Here we have removed **sp00ky.txt** from the filesystem to stop it from doing damage.
 
   Be careful using `rm` because it deletes files and directories permanently. There isn't an undelete command, so once you delete a file or directory with `rm`, it's gone. This is why we copied the file into a new directory before removing it.
+
+You're now ready to use your catch all the ghosts safely.

@@ -14,13 +14,14 @@ You can easily download anything and open it from the terminal using **bash**. B
   ```
   wget -O - http://rpf.io/pacmanstart
   ```
+  You will see a lot of text appear in the terminal, this means it is downloading the files to start the treasure hunt.
+
 + Then, type or copy and paste:
   ```
   bash pacmanstart
   ```
-
-  You will see a lot of text appear in the terminal, this means it is downloading the files to start the treasure hunt.
-
+  This will set up the treasure hunt for you.
+  
 + Press `Ctrl l` to clear the terminal
 
 Next, learn how to navigate the command line so you can start finding and catching ghosts.

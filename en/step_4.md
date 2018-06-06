@@ -44,7 +44,7 @@ In this step, we will learn how to get Pacman to navigate the pi terminal, just 
 
 ### Changing Directory
 
-`cd` stands for stands for "change directory". Just as you can click on folders and go into them, `cd` lets you into the directory you want to go into. To get into a directory, you type the command `cd` followed by the name of the directory.
+`cd` stands for stands for "change directory". Just the same as you can click on folders and go into them, `cd` lets you into the directory you want to go into. To get into a directory, you type the command `cd` followed by the name of the directory.
 
 + To move into a different directory, type `cd Documents/` and press enter.
   ```

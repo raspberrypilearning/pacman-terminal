@@ -39,7 +39,7 @@ Here is all the treasure you can collect and the points you get when you find th
 
 + You should see some treasure
 
-  IMAGE!!!
+  ![Find Treasure](images/findtreasure.png)
 
 + Using the program below, click on the treasure you find to tally up your points and then repeat these last three instructions to collect treasure in all of your ghost files.
 

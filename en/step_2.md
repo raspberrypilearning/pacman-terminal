@@ -8,12 +8,12 @@ However, instead of just being a hungry yellow circle, you are an ethical hacker
 
 There is a huge problem with your computer system. It is being attacked by nasty viruses. These viruses are the Pacman ghosts:
 
-|                                              |           |                                              |           |
-| :------------------------------------------: | :-------: | :------------------------------------------: | :-------: |
-| ![Blinky Ghost](images/ghostblinky.png)      | Blinky    | ![Funky Ghost](images/ghostfunky.png)        | Funky     |
-| ![Inky Ghost](images/ghostinky.png)          | Inky      | ![Spooky Ghost](images/ghostspooky.png)      | Spooky    |
-| ![Pinky Ghost](images/ghostpinky.png)        | Pinky     | ![Sue Ghost](images/ghostsue.jpg)            | Sue       |
-| ![Clyde Ghost](images/ghostclyde.png)        | Clyde     |
+|                                              |           |                                              |           |                                              |           |
+| :------------------------------------------: | :-------: | :------------------------------------------: | :-------: | :------------------------------------------: | :-------: |
+| ![Blinky Ghost](images/ghostblinky.png)      | Blinky    | ![Clyde Ghost](images/ghostclyde.png)        | Clyde     | ![Spooky Ghost](images/ghostspooky.png)      | Spooky    |
+| ![Inky Ghost](images/ghostinky.png)          | Inky      | ![Funky Ghost](images/ghostfunky.png)        | Funky     | ![Sue Ghost](images/ghostsue.jpg)            | Sue       |
+| ![Pinky Ghost](images/ghostpinky.png)        | Pinky     |
+
 
 
 

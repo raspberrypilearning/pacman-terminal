@@ -32,7 +32,7 @@ In this step, we will learn how to get Pacman to navigate the pi terminal, just 
   This is what you should get (results in the red box):
   ![PWD Command](images/pwdcommand.png)
 
-  Here we can see we are in the **pi/** directory.
+  Here we can see we are in the **/home/pi/** directory.
 
   The filesystem is how files and directories on your computer are organised. A filesystem usually organises a computer's files and directories into a tree structure:
 

@@ -12,8 +12,13 @@ You can easily download anything and open it from the terminal using **bash**. B
 
 + After the `$` or shell prompt, type or copy and paste:
   ```
-  wget -O - http://rpf.io/pacmanstart | bash
+  wget -O - http://rpf.io/pacmanstart
   ```
++ Then, type or copy and paste:
+  ```
+  bash pacmanstart
+  ```
+
   You will see a lot of text appear in the terminal, this means it is downloading the files to start the treasure hunt.
 
 + Press `Ctrl l` to clear the terminal

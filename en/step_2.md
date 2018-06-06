@@ -12,7 +12,7 @@ There is a huge problem with your computer system. It is being attacked by nasty
 | :------------------------------------------: | :-------: | :------------------------------------------: | :-------: | :------------------------------------------: | :-------: | :------------------------------------------: | :-------: |
 | ![Blinky Ghost](images/ghostblinky.png)      | Blinky    | ![Clyde Ghost](images/ghostclyde.png)        | Clyde     | ![Spooky Ghost](images/ghostspooky.png)      | Spooky    | ![Pinky Ghost](images/ghostpinky.png)        | Pinky     |
 | ![Inky Ghost](images/ghostinky.png)          | Inky      | ![Funky Ghost](images/ghostfunky.png)        | Funky     | ![Sue Ghost](images/ghostsue.jpg)            | Sue       |
-
+|                                              |
 
 Your goal is to catch and get rid of all of these ghosts.
 

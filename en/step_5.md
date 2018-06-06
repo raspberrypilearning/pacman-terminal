@@ -69,7 +69,7 @@ You can also use what you learn here to create your own directories in your file
 
 + Copy the ghost and put it in the quarantine folder by typing:
   ```
-  cp sp00ky.txt home/pi/Documents/quarantine/
+  cp sp00ky.txt /home/pi/quarantine
   ```
   `cp` is followed by the name of the file to copy and then the directory you want it copied into. Here, we copied the file **sp00ky.txt** and placed it in the **quarantine/** folder.
 

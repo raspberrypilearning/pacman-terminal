@@ -8,15 +8,13 @@ However, instead of just being a hungry yellow circle, you are an ethical hacker
 
 There is a huge problem with your computer system. It is being attacked by nasty viruses. These viruses are the Pacman ghosts:
 
-|                                              |                                              |
-| :------------------------------------------: | :------------------------------------------: |
-| ![Blinky Ghost](images/ghostblinky.png)      | Blinky                                       |
-| ![Inky Ghost](images/ghostinky.png)          | Inky                                         |
-| ![Pinky Ghost](images/ghostpinky.png)        | Pinky                                        |
-| ![Clyde Ghost](images/ghostclyde.png)        | Clyde                                        |
-| ![Funky Ghost](images/ghostfunky.png)        | Funky                                        |
-| ![Spooky Ghost](images/ghostspooky.png)      | Spooky                                       |
-| ![Sue Ghost](images/ghostsue.jpg)            | Sue                                          |
+|                                              |           |                                              |           |
+| :------------------------------------------: | :-------: | :------------------------------------------: | :-------: |
+| ![Blinky Ghost](images/ghostblinky.png)      | Blinky    | ![Funky Ghost](images/ghostfunky.png)        | Funky     |
+| ![Inky Ghost](images/ghostinky.png)          | Inky      | ![Spooky Ghost](images/ghostspooky.png)      | Spooky    |
+| ![Pinky Ghost](images/ghostpinky.png)        | Pinky     | ![Sue Ghost](images/ghostsue.jpg)            | Sue       |
+| ![Clyde Ghost](images/ghostclyde.png)        | Clyde     |
+
 
 
 Your goal is to catch and get rid of all of these ghosts.

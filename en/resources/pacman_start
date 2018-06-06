@@ -11,10 +11,10 @@ DIRECTORIES=(
 
 for dir in $DIRECTORIES; do mkdir -p $dir; done
 
-wget https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources/8linky.txt -P /home/pi/Pictures
-wget https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources//PiNkY.txt -P /home/pi/Desktop
-wget https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources//1nky.txt -P /home/pi/Templates
-wget https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources//CLYDE.txt -P /home/pi/python_games
-wget https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources//sp00ky.txt -P /home/pi/Documents
-wget https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources//funky.txt -P /home/pi/Documents/Greenfoot Projects
-wget https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources//sue.txt -P /home/pi/Music
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/8linky.txt -P /home/pi/Pictures
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/PiNkY.txt -P /home/pi/Desktop
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/1nky.txt -P /home/pi/Templates
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/CLYDE.txt -P /home/pi/python_games
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/sp00ky.txt -P /home/pi/Documents
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/funky.txt -P /home/pi/Documents/Greenfoot\ Projects
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/sue.txt -P /home/pi/Music

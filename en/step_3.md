@@ -11,9 +11,11 @@ You can easily download anything and open it from the terminal using **bash**. B
   ![Shell Prompt](images/shellprompt.png)
 
 + After the `$` or shell prompt, type or copy and paste:
+  ```
+  wget -O - http://rpf.io/pacmanstart | bash
+  ```
+  You will see a lot of text appear in the terminal, this means it is downloading the files to start the treasure hunt.
 
-  `wget -O - https://github.com/raspberrypilearning/pacman-terminal/tree/master/en/resources/pacman_start.sh | bash`
-
-NEED THIS AFTER ![Pacman Start](images/pacmanstart.png)
++ Press `Ctrl l` to clear the terminal
 
 Next, learn how to navigate the command line so you can start finding and catching ghosts.

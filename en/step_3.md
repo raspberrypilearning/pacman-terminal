@@ -14,7 +14,7 @@ You can easily download anything and open it from the terminal using **bash**. B
   ```
   wget -O - http://rpf.io/pacmanstart | bash
   ```
-  You will see a lot of text appear in the terminal, this means it is downloading the files to start the treasure hunt. Please note that downloading files and running them automatically with the `| bash` code at the end is generally not very secure because it means you are downloading files and then running them without checking them first. However, this is the easiest way to start the treasure hunt and shows you how easy it is to download viruses.
+  You will see a lot of text appear in the terminal, this means it is downloading the files to start the treasure hunt. Please note that downloading files and running them automatically using the `| bash` code at the end is generally not very secure because it means you are downloading files and then running them without checking them first. However, this is the easiest way to start the treasure hunt and shows you how easy it is to download viruses.
 
 + Press `Ctrl l` to clear the terminal
 

@@ -1,6 +1,6 @@
-title: Pacman treasure hunt of the Pi terminal
+title: Pacman treasure hunt on the terminal
 hero_image: images/banner.png
-description:
+description: Hack your Pi's terminal to find all the Pacman ghosts
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: false

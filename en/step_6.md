@@ -1,6 +1,6 @@
 ## Catch all the ghosts
 
-+ Now use all the commands you have learned in the last step and this step, to move around and find, catch and quarantine as many ghosts as you can find.
++ Now use all the commands you have learned in the last two steps to move around your Pi's file system and find, catch, and quarantine as many ghosts as you can.
 
 Here's a reminder of all the commands you need to navigate the terminal:
 

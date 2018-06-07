@@ -6,7 +6,7 @@ In this step, you will learn how to get Pacman to navigate the Pi's terminal, ju
 
 ### Listing directory content
 
-The `ls` command looks at the folder you are in and then lists the files and **directories** inside it. When you're using the terminal, folders are called directories.
+The `ls` command looks at the folder you are in and then lists the files and **directories** inside it (`ls` stands for 'list'). When you're using the terminal, folders are called directories.
 
 + After the shell prompt, type `ls` and press <kbd>Enter</kbd>. Make sure you type the letter `l` as in "lime" and not the number `1`.
   ```
@@ -23,7 +23,7 @@ The `ls` command looks at the folder you are in and then lists the files and **d
 
 ### Print working directory
 
-`pwd` stands for "print working directory". This command shows where you are in the Pi's **file system**, meaning it tells you what directory you are currently in in the command line so you don't get lost.
+`pwd` stands for 'print working directory'. This command shows where you are in the Pi's **file system**, meaning it tells you what directory you are currently in in the command line so you don't get lost.
 
 + Type `pwd` and press <kbd>Enter</kbd>.
   ```
@@ -32,9 +32,9 @@ The `ls` command looks at the folder you are in and then lists the files and **d
   This is what you should get (results in the red box):
   ![PWD Command](images/pwdcommand.png)
 
-  Here you can see that you are in the `/home/pi/` directory.
+  Here you can see that you are in the `/home/pi/` directory. This means you're inside the `pi` directory, which itself is stored inside the `home` directory.
 
-  The file system is how files and directories on your computer are organised. A file system usually organises a computer's files and directories into a tree structure:
+  The file system is the way files and directories on your computer are organised. A file system usually organises a computer's files and directories into a tree structure:
 
   |                                              |                                              |
   | :------------------------------------------: | :------------------------------------------: |
@@ -44,7 +44,7 @@ The `ls` command looks at the folder you are in and then lists the files and **d
 
 ### Changing directory
 
-`cd` stands for "change directory". Just the same as you can click on a folder icon in a graphic file manager to go into it, `cd` lets you go into the directory you tell it. To get into a directory, just type the command `cd` followed by the name of the directory.
+`cd` stands for 'change directory'. Just the same as you can click on a folder icon in a graphic file manager to go into it, `cd` lets you go into the directory you tell it. To get into a directory, just type the command `cd` followed by the name of the directory.
 
 + To try moving into a different directory, type `cd Documents/` and press <kbd>Enter</kbd>.
   ```
@@ -67,7 +67,7 @@ The `ls` command looks at the folder you are in and then lists the files and **d
   ```
   `cd ..` navigates up from `home/pi/Documents` back to `home/pi/`.
 
-  You can quickly check your directory by using the `pwd` command:
+  You can quickly check you're in the right directory using the `pwd` command:
 
   ![CD DotDot Command](images/cddotdotcommand.png)
 

@@ -1,8 +1,8 @@
 ## Start the treasure hunt
 
-To start the treasure hunt, you will need to download a file from the internet which will unleash the Pacman Ghosts.
+To start the treasure hunt, you will need to download a file that will unleash the Pacman ghosts.
 
-You can easily download anything and open it from the terminal using **bash**. Bash is a program that listens to your commands and does what you tell it to do. Hackers are concerned with problems in computer systems and programs, and they need to give commands to find these problems and fix them. Therefore, they need to be good at using commands in programs like bash.
+You can easily download anything and open it via the terminal using **bash**. Bash is a program that listens to your commands and does what you tell it to do. Hackers are concerned with problems in computer systems and programs, and they need to give commands to find these problems and fix them. Therefore, they need to be good at using commands in programs like bash.
 
 + To access bash, make sure you have opened a terminal window.
 
@@ -10,12 +10,14 @@ You can easily download anything and open it from the terminal using **bash**. B
 
   ![Shell Prompt](images/shellprompt.png)
 
-+ After the `$` or shell prompt, type or copy and paste:
++ Next to the `$` (the shell prompt), type or copy and paste:
   ```
   wget -O - http://rpf.io/pacmanstart | bash
   ```
-  You will see a lot of text appear in the terminal, this means it is downloading the files to start the treasure hunt. Please note that downloading files and running them automatically using the `| bash` code at the end is generally not very secure because it means you are downloading files and then running them without checking them first. However, this is the easiest way to start the treasure hunt and shows you how easy it is to download viruses.
++ Press the <kbd>Enter</kbd> key to run this line of code. You will see a lot of text appear in the terminal. This means it is downloading the files to start the treasure hunt.
+  
+  **Note:** the `| bash` command at the end automatically runs the file you're downloading. Using this command is generally not very secure because it means your computer will run the downloaded files without you checking them first. However, here it is the easiest way to start the treasure hunt and shows you how easy it is to download viruses.
 
-+ Press `Ctrl l` to clear the terminal
++ Press <kbd>Ctrl l</kbd> to clear the terminal window.
 
-Next, learn how to navigate the command line so you can start finding and catching ghosts.
+Next you'll learn how to navigate the command line so you can start finding and catching ghosts.

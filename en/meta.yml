@@ -1,4 +1,4 @@
-title: Pacman Treasure Hunt of the Pi Terminal
+title: Pacman treasure hunt of the Pi terminal
 hero_image: images/banner.png
 description:
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
@@ -18,8 +18,8 @@ steps:
 - title: Introduction
 - title: Your mission
 - title: Start the treasure hunt
-- title: Move around the pi terminal
+- title: Move around the Pi terminal
 - title: Catch your first ghost
 - title: Catch all the ghosts
 - title: Find the treasure
-- title: Challenge
+- title: "Challenge: get rid of the quarantine folder"

@@ -1,40 +1,40 @@
-## Move around the pi terminal
+## Move around the Pi terminal
 
-In this step, we will learn how to get Pacman to navigate the pi terminal, just like when Pacman moves around the maze.
+In this step, you will learn how to get Pacman to navigate the Pi's terminal, just like when Pacman moves around his maze.
 
 ![Pacman Gif](images/pacmangiphy.gif)
 
 ### Listing directory content
 
-`ls` looks at the folder you are in then "lists" the files and **directories** inside it.
+The `ls` command looks at the folder you are in and then lists the files and **directories** inside it. When you're using the terminal, folders are called directories.
 
-+ After the shell prompt, type `ls` and press enter. Make sure you type the letter l as in "lime" and not the number 1.
++ After the shell prompt, type `ls` and press <kbd>Enter</kbd>. Make sure you type the letter `l` as in "lime" and not the number `1`.
   ```
   ls
   ```
   You should get a similar result to this:
   ![LS Command](images/lscommand.png)
 
-  Here, we cannot see any files, because there are none at this level, but we can see lots of directories. When using the terminal, folders are called directories.
+  Here, you cannot see any files, because there aren't any, but you can see lots of directories.
 
-  The directory, or folder we are in, therefore contains these directories:
-  *Desktop, Downloads, Pictures, python_games, Scratch Projects, Videos, Documents, Music, Public, Scratch, and Templates*
+  The directory, or folder you are in, therefore contains these directories:
+  `Desktop`, `Downloads`, `Pictures`, `python_games`, `Scratch Projects`, `Videos`, `Documents`, `Music`, `Public`, `Scratch`, and `Templates`
 
 
-### Print Working Directory
+### Print working directory
 
-`pwd` stands for "print working directory". It tells you what directory you are currently in so you will not get lost. It shows where you are in the Pi's **filesystem**
+`pwd` stands for "print working directory". This command shows where you are in the Pi's **file system**, meaning it tells you what directory you are currently in in the command line so you don't get lost.
 
-+ Type `pwd` and press enter.
++ Type `pwd` and press <kbd>Enter</kbd>.
   ```
   pwd
   ```
   This is what you should get (results in the red box):
   ![PWD Command](images/pwdcommand.png)
 
-  Here we can see we are in the **/home/pi/** directory.
+  Here you can see that you are in the `/home/pi/` directory.
 
-  The filesystem is how files and directories on your computer are organised. A filesystem usually organises a computer's files and directories into a tree structure:
+  The file system is how files and directories on your computer are organised. A file system usually organises a computer's files and directories into a tree structure:
 
   |                                              |                                              |
   | :------------------------------------------: | :------------------------------------------: |
@@ -42,30 +42,30 @@ In this step, we will learn how to get Pacman to navigate the pi terminal, just 
 
 
 
-### Changing Directory
+### Changing directory
 
-`cd` stands for stands for "change directory". Just the same as you can click on folders and go into them, `cd` lets you into the directory you want to go into. To get into a directory, you type the command `cd` followed by the name of the directory.
+`cd` stands for "change directory". Just the same as you can click on a folder icon in a graphic file manager to go into it, `cd` lets you go into the directory you tell it. To get into a directory, just type the command `cd` followed by the name of the directory.
 
-+ To move into a different directory, type `cd Documents/` and press enter.
++ To try moving into a different directory, type `cd Documents/` and press <kbd>Enter</kbd>.
   ```
   cd Documents/
   ```
   ![CD Documents](images/cddocuments.png)
 
-  Here, we navigated into the **Documents/** directory.
+  Now you've navigated into the `Documents` directory!
 
-  The terminal tells us here that we are in **Documents/**:
+  The terminal tells you here that you are in `Documents`:
 
   ![CD Documents path](images/cddocumentspath.png)
 
 
-### Moving Directory
+### Moving between directories
 
-+ Move up (or back) one directory by typing `cd ..` and pressing enter.
++ Move up (or back, depending on how you want to imagine it) one directory by typing `cd ..` and pressing <kbd>Enter</kbd>.
   ```
   cd ..
   ```
-  `cd ..` navigated up from **home/pi/documents** back to **home/pi/**.
+  `cd ..` navigated up from `home/pi/documents` back to `home/pi/`.
 
   I also quickly checked my directory by using the `pwd` command:
 

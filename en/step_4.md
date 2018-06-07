@@ -65,9 +65,9 @@ The `ls` command looks at the folder you are in and then lists the files and **d
   ```
   cd ..
   ```
-  `cd ..` navigated up from `home/pi/documents` back to `home/pi/`.
+  `cd ..` navigates up from `home/pi/Documents` back to `home/pi/`.
 
-  I also quickly checked my directory by using the `pwd` command:
+  You can quickly check your directory by using the `pwd` command:
 
   ![CD DotDot Command](images/cddotdotcommand.png)
 

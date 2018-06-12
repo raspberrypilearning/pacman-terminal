@@ -44,7 +44,7 @@ The `ls` command looks at the folder you are in and then lists the files and **d
 
 ### Changing directory
 
-`cd` stands for 'change directory'. Just the same as you can click on a folder icon in a graphic file manager to go into it, `cd` lets you go into the directory you tell it. To get into a directory, just type the command `cd` followed by the name of the directory.
+`cd` stands for 'change directory'. Just the same as you can click on a folder icon in a graphic file manager to go into it, `cd` lets you go into the directory you tell it. To get into a directory, just type the command `cd` followed by the name of the directory and a forward slash `/`. The `/` isn't part of the directory name, it is just the way the command line shows directories.
 
 + To try moving into a different directory, type `cd Documents/` and press <kbd>Enter</kbd>.
   ```

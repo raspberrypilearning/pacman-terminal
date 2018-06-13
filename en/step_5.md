@@ -11,14 +11,14 @@ First off, you will learn to create your own directories in your file system!
   mkdir quarantine/
   ```
 
-  `mkdir` stands for 'make directory'. The command you typed in created a new directory called `quarantine/` inside the `pi/` directory. In the image, you can see that I have also checked my directory exists by using `ls`:
+  `mkdir` stands for 'make directory'. The command you typed in created a new directory called `quarantine` inside the `pi` directory. In the image, you can see that I have also used the `ls` command to check that my directory exists:
 
   ![MKDIR Command](images/mkdircommand.png)
 
 
 ### Let's catch our first ghost!
 
-+ Navigate into the `Documents/` directory using the commands you learned in the last step.
++ Navigate into the `Documents` directory using the commands you learned in the last step.
 
   --- hints ---
   --- hint ---
@@ -36,7 +36,7 @@ First off, you will learn to create your own directories in your file system!
   --- /hint ---
   --- /hints ---
 
-+ List all the files and directories in the `Documents/` directory using the commands you learned in the last step.
++ List all the files and directories in the `Documents` directory using the commands you learned in the last step.
 
   --- hints ---
   --- hint ---
@@ -69,9 +69,9 @@ First off, you will learn to create your own directories in your file system!
 
 + Copy the ghost and put it in the quarantine folder by typing:
   ```
-  cp sp00ky.txt /home/pi/quarantine
+  cp sp00ky.txt /home/pi/quarantine/
   ```
-  `cp` (for 'copy') is followed by the name of the file you want to copy and then the directory you want it copied into. Here, we copied the file `sp00ky.txt` and placed it in the `quarantine/` folder.
+  `cp` (for 'copy') is followed by the name of the file you want to copy and then the directory you want it copied into. Here, we copied the file `sp00ky.txt` and placed it in the `quarantine` folder.
 
 
 ### Removing files

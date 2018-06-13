@@ -43,7 +43,7 @@ You will learn some basic hacking and find out about basic cybersecurity concept
 
 You will also learn how to do these things in the terminal:
 + Download and run a script
-+ Navigate through your computer
++ Navigate your computer
 + Create a directory
 + Copy and move files around your computer
 + Delete files

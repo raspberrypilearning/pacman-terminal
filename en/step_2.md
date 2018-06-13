@@ -27,4 +27,4 @@ So, to complete the treasure hunt you must:
 + To access the command line on your Raspberry Pi, open a terminal window by clicking on the **Terminal** icon at the top of the screen, or select **Accessories** and then **Terminal** in the menu.
 
 
-![Find Terminal](images/findterminal.png)
+![Find Terminal](images/find-terminal.png)

@@ -80,8 +80,8 @@ First off, you will learn to create your own directories in your file system!
   ```
   rm sp00ky.txt
   ```
-  `rm` (for 'remove') deletes files and directories. Here you have removed `sp00ky.txt` from the folder where you found it to stop it from doing damage.
+  `rm` stands for 'remove' and deletes files (and directories). Here you have removed `sp00ky.txt` from the folder where you found it to stop it from doing damage.
 
-  **Note:** be careful with using `rm` — it deletes files and directories permanently! There isn't an 'undelete' command, so once you delete a file or directory with `rm`, it's gone forever. This is why we copied the file into a new directory before removing it.
+  **Note:** be careful with using `rm` — it deletes things from your computer permanently! There isn't an 'undelete' command, so once you delete something with `rm`, it's gone forever. This is why we copied the file into a new directory before removing it.
 
 You're now ready to safely catch all the ghosts!

@@ -6,7 +6,7 @@ Hack the Pi’s terminal and learn basic cybersecurity skills through a Pacman-t
 
 You will take the first steps towards being an awesome ethical hacker! This project will take you on a journey through your Pi's terminal and you'll learn to navigate the terminal and protect your computer against nasty attackers.
 
-Image
+![Project Preview](images/projectpreview.gif)
 
 During the treasure hunt, you will:
 + Be introduced to your mission: hack the terminal to find all the Pacman 'ghosts'

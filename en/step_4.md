@@ -23,7 +23,7 @@ The `ls` command looks at the folder you are in and then lists the files and **d
 
 ### Print working directory
 
-`pwd` stands for 'print working directory'. This command shows where you are in the Pi's **file system**, meaning it tells you what directory you are currently in in the command line so you don't get lost.
+`pwd` stands for 'print working directory'. This command shows where you are in the Pi's **file system**, meaning it tells you what directory you are currently in in the command line — your working directory! You can use this command at any time to not get lost.
 
 + Type `pwd` and press <kbd>Enter</kbd>.
   ```
@@ -32,9 +32,9 @@ The `ls` command looks at the folder you are in and then lists the files and **d
   This is what you should get (results in the red box):
   ![PWD Command](images/pwdcommand.png)
 
-  Here you can see that you are in the `/home/pi/` directory. This means you're inside the `pi` directory, which itself is stored inside the `home` directory. The `/` symbols aren't part of the directory names, the command line just uses them to show you directories.
+  Here you can see that you are in the `/home/pi` directory. This means you're inside the `pi` directory, which itself is stored inside the `home` directory. (The `/` symbols aren't part of the directory names, the command line just uses them to show you directories.)
 
-  The file system is the way files and directories on your computer are organised. A file system usually organises a computer's files and directories into a tree structure:
+  The **file system** is the way files and directories on your computer are organised. A computer's file system usually has a tree structure:
 
   |                                              |                                              |
   | :------------------------------------------: | :------------------------------------------: |
@@ -42,9 +42,9 @@ The `ls` command looks at the folder you are in and then lists the files and **d
 
 
 
-### Changing directory
+### Change directory
 
-`cd` stands for 'change directory'. Just the same as you can click on a folder icon in a graphic file manager to go into it, `cd` lets you go into the directory you tell it. To get into a directory, just type the command `cd` followed by the name of the directory and a forward slash `/`.
+`cd` stands for 'change directory'. Just the same as you can click on a folder icon in a graphic file manager to go into it, `cd` lets you go into the directory you tell it. To get into a directory, just type the command `cd` followed by a space, and then the name of the directory and a forward slash `/`.
 
 + To try moving into a different directory, type `cd Documents/` and press <kbd>Enter</kbd>.
   ```
@@ -61,11 +61,11 @@ The `ls` command looks at the folder you are in and then lists the files and **d
 
 ### Moving between directories
 
-+ Move up (or back, depending on how you want to imagine it) one directory by typing `cd ..` and pressing <kbd>Enter</kbd>.
++ You can move up (or back, depending on how you want to imagine it) one directory in the file system by typing `cd` followed by a space and two full stops `..`, and then pressing <kbd>Enter</kbd>.
   ```
   cd ..
   ```
-  `cd ..` navigates up from `home/pi/Documents` back to `home/pi/`.
+  `cd ..` navigates up from `home/pi/Documents` back to `home/pi`.
 
   You can quickly check you're in the right directory using the `pwd` command:
 

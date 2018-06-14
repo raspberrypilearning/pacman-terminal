@@ -72,3 +72,11 @@ The `ls` command looks at the folder you are in and then lists the files and **d
   ![CD DotDot Command](images/cddotdotcommand.png)
 
 Now you're ready to catch your first ghost!
+
+
+Tip: In this example `home/pi` is a special directory and has a special shortcut command to get to it from anywhere
+
+'ls ~' and press <kbd>Enter</kbd>
+
+You can see  `~` in then example above. It does not state `home/pi` only `~`
+![CD DotDot Command](images/cddotdotcommand.png)

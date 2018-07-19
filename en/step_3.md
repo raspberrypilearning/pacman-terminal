@@ -1,6 +1,6 @@
 ## Start the treasure hunt
 
-To start the treasure hunt, you will need to download a file that will unleash the Pacman ghosts! Please note that **you will not download real viruses** by completing this step. The files you'll download are completely safe and cannot do any damage to your computer.
+To start the treasure hunt, you will need to download a file that will unleash the Pac-Man ghosts! Please note that **you will not download real viruses** by completing this step. The files you'll download are completely safe and cannot do any damage to your computer.
 
 In the terminal, you can download and open files or scripts very easily using **bash**. Bash is a program that listens to your commands and does what you tell it to do. Hackers are concerned with problems in computer systems and programs, and they need to give commands to find these problems and fix them. Therefore, they need to be good at using commands in programs like bash.
 
@@ -15,7 +15,7 @@ In the terminal, you can download and open files or scripts very easily using **
   wget -O - http://rpf.io/pacmanstart | bash
   ```
 + Press the <kbd>Enter</kbd> key to run this line of code. You will see a lot of text appear in the terminal. This means it is downloading the files to start the treasure hunt.
-  
+
   **Note:** the `| bash` command at the end tells bash to automatically run the file after it is downloaded. Using this command is generally not very secure, because it means the downloaded files will be run without you checking them first. However, here it is the easiest way to start the treasure hunt, and it also shows you how easy it is to download viruses.
 
 + Press <kbd>Ctrl l</kbd> to clear the terminal window.

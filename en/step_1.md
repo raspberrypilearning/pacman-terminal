@@ -1,6 +1,6 @@
 ## Introduction
 
-Hack the Pi’s terminal and learn basic cybersecurity skills through a Pacman-themed treasure hunt.
+Hack the Pi’s terminal and learn basic cybersecurity skills through a Pac-Man themed treasure hunt.
 
 ### What you will make
 
@@ -9,7 +9,7 @@ You will take the first steps towards being an awesome ethical hacker! This proj
 ![Project Preview](images/projectpreview.gif)
 
 During the treasure hunt, you will:
-+ Be introduced to your mission: hack the terminal to find all the Pacman 'ghosts'
++ Be introduced to your mission: hack the terminal to find all the Pac-Man 'ghosts'
 + Learn how to run a script to start the treasure hunt
 + Find the ghosts and then quarantine them by creating your own safe directory
 + Learn more about malware by inspecting the ghost files and getting rid of them

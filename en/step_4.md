@@ -1,6 +1,6 @@
 ## Move around the Pi terminal
 
-In this step, you will learn how to get Pacman to navigate the Pi's terminal, just like when Pacman moves around his maze.
+In this step, you will learn how to get Pac-Man to navigate the Pi's terminal, just like when Pac-Man moves around his maze.
 
 ![Pacman Gif](images/pacmangiphy.gif)
 

@@ -1,12 +1,12 @@
 ## Your mission
 
-For this project, you will be Pacman:
+For this project, you will be Pac-Man:
 
 ![Pacman Image](images/pacmancharacter.png)
 
 However, instead of just being a hungry yellow circle, you are an ethical hacker and you must defend your computer from attackers!
 
-This is the situation: there is a huge problem with your computer system — it's being attacked by nasty viruses. These viruses are the Pacman ghosts:
+This is the situation: there is a huge problem with your computer system — it's being attacked by nasty viruses. These viruses are the Pac-Man ghosts:
 
 |                                              |           |                                              |           |                                              |           |                                              |           |
 | :------------------------------------------: | :-------: | :------------------------------------------: | :-------: | :------------------------------------------: | :-------: | :------------------------------------------: | :-------: |

@@ -5,14 +5,13 @@ echo $heimat
 echo /home/"$heimat"/
 
 DIRECTORIES=(
-  /home/"$heimat"/Pictures
-  /home/"$heimat"/Desktop
-  /home/"$heimat"/Templates
-  /home/"$heimat"/python_games
-  /home/"$heimat"/Documents
-  /home/"$heimat"/Music
-  /home/"$heimat"/Videos
-)
+    /home/"$heimat"/Pictures
+    /home/"$heimat"/Desktop
+    /home/"$heimat"/Templates
+    /home/"$heimat"/python_games
+    /home/"$heimat"/Documents
+    /home/"$heimat"/Music
+    /home/"$heimat"/Videos)
 
 for dir in $DIRECTORIES
 do 

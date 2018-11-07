@@ -10,11 +10,9 @@ DIRECTORIES=(
     /home/"$heimat"/Templates
     /home/"$heimat"/python_games
     /home/"$heimat"/Documents
-    /home/"$heimat"/Documents
     /home/"$heimat"/Music
-    /home/"$heimat"/Videos)
-    
-echo $DIRECTORIES
+    /home/"$heimat"/Videos
+    )
 
 for dir in $DIRECTORIES
 do 

@@ -1,6 +1,6 @@
 #!/bin/sh
 
-HOMEDIR = `whoami`
+HOMEDIR=`whoami`
 echo $HOMEDIR
 echo /home/"$HOMEDIR"/
 

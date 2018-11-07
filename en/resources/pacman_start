@@ -17,5 +17,4 @@ DIRECTORIES=(
 for dir in $DIRECTORIES
 do 
   echo $dir
-  mkdir -p $dir
 done

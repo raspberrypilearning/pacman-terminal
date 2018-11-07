@@ -1,20 +1,21 @@
 #!/bin/sh
 
+HOMEDIR = `whoami`
 DIRECTORIES=(
-    /home/pi/Pictures
-    /home/pi/Desktop
-    /home/pi/Templates
-    /home/pi/python_games
-    /home/pi/Documents
-    /home/pi/Documents
-    /home/pi/Music)
+    /home/$HOMEDIR/Pictures
+    /home/$HOMEDIR/Desktop
+    /home/$HOMEDIR/Templates
+    /home/$HOMEDIR/python_games
+    /home/$HOMEDIR/Documents
+    /home/$HOMEDIR/Documents
+    /home/$HOMEDIR/Music)
 
 for dir in $DIRECTORIES; do mkdir -p $dir; done
 
-wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/8linky.txt -P /home/pi/Pictures
-wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/PiNkY.txt -P /home/pi/Desktop
-wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/1nky.txt -P /home/pi/Templates
-wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/CLYDE.txt -P /home/pi/python_games
-wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/sp00ky.txt -P /home/pi/Documents
-wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/funky.txt -P /home/pi/Documents
-wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/sue.txt -P /home/pi/Music
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/8linky.txt -P /home/$HOMEDIR/Pictures
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/PiNkY.txt -P /home/$HOMEDIR/Desktop
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/1nky.txt -P /home/$HOMEDIR/Templates
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/CLYDE.txt -P /home/$HOMEDIR/python_games
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/sp00ky.txt -P /home/$HOMEDIR/Documents
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/funky.txt -P /home/$HOMEDIR/Documents
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/sue.txt -P /home/$HOMEDIR/Music

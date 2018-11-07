@@ -12,7 +12,7 @@ DIRECTORIES=(
     /home/"$heimat"/Documents
     /home/"$heimat"/Documents
     /home/"$heimat"/Music
-    /home/eileenking/Videos)
+    /home/"$heimat"/Videos)
 
 for dir in $DIRECTORIES; do mkdir -p $dir; done
 

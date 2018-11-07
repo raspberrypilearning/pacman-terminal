@@ -2,13 +2,13 @@
 
 HOMEDIR = `whoami`
 DIRECTORIES=(
-    /home/$HOMEDIR/Pictures
-    /home/$HOMEDIR/Desktop
-    /home/$HOMEDIR/Templates
-    /home/$HOMEDIR/python_games
-    /home/$HOMEDIR/Documents
-    /home/$HOMEDIR/Documents
-    /home/$HOMEDIR/Music
-    /home/$HOMEDIR/Videos)
+    /home/`echo $HOMEDIR`/Pictures
+    /home/`echo $HOMEDIR`/Desktop
+    /home/`echo $HOMEDIR`/Templates
+    /home/`echo $HOMEDIR`/python_games
+    /home/`echo $HOMEDIR`/Documents
+    /home/`echo $HOMEDIR`/Documents
+    /home/`echo $HOMEDIR`/Music
+    /home/`echo $HOMEDIR`/Videos)
 
 for dir in $DIRECTORIES; do mkdir -p $dir; done

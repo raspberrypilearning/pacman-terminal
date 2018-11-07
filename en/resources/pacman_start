@@ -13,6 +13,8 @@ DIRECTORIES=(
     /home/"$heimat"/Documents
     /home/"$heimat"/Music
     /home/"$heimat"/Videos)
+    
+echo $DIRECTORIES
 
 for dir in $DIRECTORIES; do mkdir -p $dir; done
 

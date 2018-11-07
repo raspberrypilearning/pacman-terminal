@@ -15,3 +15,11 @@ DIRECTORIES=(
     /home/"$heimat"/Videos)
 
 for dir in $DIRECTORIES; do mkdir -p $dir; done
+
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/8linky.txt -P /home/"$heimat"/Pictures
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/PiNkY.txt -P /home/"$heimat"/Desktop
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/1nky.txt -P /home/"$heimat"/Templates
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/CLYDE.txt -P /home/"$heimat"/python_games
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/sp00ky.txt -P /home/"$heimat"/Documents
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/funky.txt -P /home/"$heimat"/Documents
+wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/sue.txt -P /home/"$heimat"/Music

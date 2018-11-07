@@ -16,7 +16,7 @@ DIRECTORIES=(
 for dir in $DIRECTORIES
 do 
   echo $dir
-  do mkdir -p $dir;
+  do mkdir -p $dir
 done
 
 wget https://raw.githubusercontent.com/raspberrypilearning/pacman-terminal/master/en/resources/8linky.txt -P /home/"$heimat"/Pictures

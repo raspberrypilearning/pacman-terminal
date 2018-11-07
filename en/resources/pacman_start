@@ -13,6 +13,8 @@ DIRECTORIES=(
     /home/"$heimat"/Music
     /home/"$heimat"/Videos)
 
+echo 'variable created' 
+
 for dir in $DIRECTORIES
 do 
   echo $dir

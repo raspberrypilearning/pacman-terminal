@@ -8,6 +8,7 @@ DIRECTORIES=(
     /home/$HOMEDIR/python_games
     /home/$HOMEDIR/Documents
     /home/$HOMEDIR/Documents
-    /home/$HOMEDIR/Music)
+    /home/$HOMEDIR/Music
+    /home/$HOMEDIR/Videos)
 
 for dir in $DIRECTORIES; do mkdir -p $dir; done

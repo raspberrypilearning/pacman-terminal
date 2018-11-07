@@ -1,6 +1,9 @@
 #!/bin/sh
 
 HOMEDIR = `whoami`
+echo $HOMEDIR
+echo /home/"$HOMEDIR"/
+
 DIRECTORIES=(
     /home/"$HOMEDIR"/Pictures
     /home/"$HOMEDIR"/Desktop

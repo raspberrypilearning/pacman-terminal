@@ -16,4 +16,8 @@ DIRECTORIES=(
     
 echo $DIRECTORIES
 
-for dir in $DIRECTORIES; echo $dir; do mkdir -p $dir; done
+for dir in $DIRECTORIES
+do 
+  echo $dir
+  mkdir -p $dir
+done

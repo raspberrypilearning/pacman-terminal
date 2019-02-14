@@ -79,7 +79,7 @@ Copy the ghost and put it in the quarantine folder by typing:
 ```
 cp sp00ky.txt ~/quarantine/
 ```
-`cp` (for 'copy') is followed by the name of the file you want to copy and then the directory you want it copied into. Here, we copied the file `sp00ky.txt` and placed it in the `quarantine` folder.
+`cp` (for 'copy') is followed by the name of the file you want to copy and then the directory you want it copied into. Here, we copied the file `sp00ky.txt` and placed it in the `quarantine` folder in the *home* directory (`~`).
 --- /task ---
 
 

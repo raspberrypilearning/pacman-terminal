@@ -37,12 +37,21 @@ This is what you should get (results in the red box):
 
 Here you can see that you are in the `/home/pi` directory. This means you're inside the `pi` directory, which itself is stored inside the `home` directory. (The `/` symbols aren't part of the directory names, the command line just uses them to show you directories.)
 
-  The **file system** is the way files and directories on your computer are organised. A computer's file system usually has a tree structure:
+**Note:** 
 
-  |                                              |                                              |
-  | :------------------------------------------: | :------------------------------------------: |
-  | ![File Manager](images/filemanager.png)      | ![File Tree](images/filetree.png)            |
+This directory is your *home* directory it is where you can save all your files. 
+
+If you are using a different username to `pi` your *home* directory will have a different directory but it will always have the shortcut `~` as you can see at the start of the shell prompt.
+
+![shell prompt with ~ highlighted](images/hometilda.png)
+
 --- /task ---
+
+The **file system** is the way files and directories on your computer are organised. A computer's file system usually has a tree structure:
+
+|                                              |                                              |
+| :------------------------------------------: | :------------------------------------------: |
+| ![File Manager](images/filemanager.png)      | ![File Tree](images/filetree.png)            |
 
 
 ### Change directory

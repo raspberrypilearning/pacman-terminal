@@ -11,7 +11,6 @@ In the terminal, you will see `$`. This is called a **shell prompt**. It appears
 
 ![Shell Prompt](images/shellprompt.png)
 
-<<<<<<< HEAD
 Next to the `$` (the shell prompt), type or copy and paste:
 ```
 wget -O - http://rpf.io/pacmanstart | bash
@@ -23,15 +22,6 @@ Press the <kbd>Enter</kbd> key to run this line of code. You will see a lot of t
   
 **Note:** the `| bash` command at the end tells bash to automatically run the file after it is downloaded. Using this command is generally not very secure, because it means the downloaded files will be run without you checking them first. However, here it is the easiest way to start the treasure hunt, and it also shows you how easy it is to download viruses.
 --- /task ---
-=======
-+ Next to the `$` (the shell prompt), type or copy and paste:
-  ```
-  wget -O - http://rpf.io/pacmanstart | bash
-  ```
-+ Press the <kbd>Enter</kbd> key to run this line of code. You will see a lot of text appear in the terminal. This means it is downloading the files to start the treasure hunt.
-
-  **Note:** the `| bash` command at the end tells bash to automatically run the file after it is downloaded. Using this command is generally not very secure, because it means the downloaded files will be run without you checking them first. However, here it is the easiest way to start the treasure hunt, and it also shows you how easy it is to download viruses.
->>>>>>> draft
 
 --- task ---
 Press <kbd>Ctrl l</kbd> to clear the terminal window.

@@ -1,82 +1,82 @@
-## Move around the Pi terminal
+## Bewege dich im Pi-Terminal
 
-In this step, you will learn how to get Pac-Man to navigate the Pi's terminal, just like when Pac-Man moves around his maze.
+In diesem Schritt lernst du, wie du Pac-Man durch das Pi-Terminal navigierst, genau wie Pac-Man sich in seinem Labyrinth bewegt.
 
 ![Pacman Gif](images/pacmangiphy.gif)
 
-### Listing directory content
+### Verzeichnisinhalte auflisten
 
-The `ls` command looks at the folder you are in and then lists the files and **directories** inside it (`ls` stands for 'list'). When you're using the terminal, folders are called directories.
+Der `ls` Befehl durchsucht den Ordner, in dem du dich befindest, und listet dann die Dateien und **Verzeichnisse** darin auf (`ls` steht für 'list', engl.: auflisten). Wenn du das Terminal verwendest, werden Ordner als Verzeichnisse bezeichnet.
 
-\--- task \--- After the shell prompt, type `ls` and press <kbd>Enter</kbd>. Make sure you type the letter `l` as in "lime" and not the number `1`.
+\--- task \--- Gib nach der Shell-Eingabeaufforderung `ls` ein und drücke die <kbd>Eingabetaste</kbd>. Stelle dabei sicher, dass du den Buchstaben `l` wie in "leben" eingibst und nicht die Zahl `1`.
 
     ls
     
 
-You should get a similar result to this: ![LS Command](images/lscommand.png)
+Du solltest ein ähnliches Ergebnis wie dieses erhalten: ![LS Befehl](images/lscommand.png)
 
-Here, you cannot see any files, because there aren't any, but you can see lots of directories.
+Hier kannst du keine Dateien sehen, da es keine gibt, aber du kannst viele Verzeichnisse sehen.
 
-The directory, or folder you are in, therefore contains these directories: `Desktop`, `Downloads`, `Pictures`, `python_games`, `Scratch Projects`, `Videos`, `Documents`, `Music`, `Public`, `Scratch`, and `Templates` \--- /task \---
+Das Verzeichnis oder der Ordner, in dem du dich befindest, enthält daher die folgenden Verzeichnisse: `Desktop`, `Downloads`, `Pictures`, `python_games`, `Scratch Projects`, `Videos`, `Documents`, `Music`, `Public`, `Scratch` und `Templates` \--- /task \---
 
-### Print working directory
+### Arbeitsverzeichnis ausgeben
 
-`pwd` stands for 'print working directory'. This command shows where you are in the Pi's **file system**, meaning it tells you what directory you are currently in in the command line — your working directory! You can use this command at any time to not get lost.
+`pwd` steht für "print working directory" (das ist englisch und heißt: "gib das Arbeitsverzeichnis aus"). Dieser Befehl zeigt an, wo du dich im **Dateisystem** des Pi's befindest. Das heißt, er sagt dir, in welchem Verzeichnis du gerade in der Befehlszeile bist - dein Arbeitsverzeichnis! Du kannst diesen Befehl jederzeit benutzen um dich zu orientieren.
 
-\--- task \--- Type `pwd` and press <kbd>Enter</kbd>.
+\--- task \--- Gebe `pwd` ein und drücke die <kbd>Eingabetaste</kbd>.
 
     pwd
     
 
-This is what you should get (results in the red box): ![PWD Command](images/pwdcommand.png)
+Du solltest folgendes Ergebnis bekommen (in der roten Box): ![PWD Befehl](images/pwdcommand.png)
 
-Here you can see that you are in the `/home/pi` directory. This means you're inside the `pi` directory, which itself is stored inside the `home` directory. (The `/` symbols aren't part of the directory names, the command line just uses them to show you directories.)
+Hier kannst du sehen, dass du dich im Verzeichnis `/home/pi` befindest. Das bedeutet, dass du dich im `pi` Verzeichnis befindest, welches wiederum im `home` Verzeichnis gespeichert ist. (Die `/` Symbole sind nicht Teil der Verzeichnisnamen, die Befehlszeile nutzt sie nur um dir Verzeichnisse anzuzeigen.)
 
-**Note:**
+**Hinweis:**
 
-This directory is your *home* directory it is where you can save all your files.
+Dieses Verzeichnis ist dein *home* Verzeichnis (also dein "Heimat-Ordner"). Dort kannst du alle deine Dateien speichern.
 
-If you are using a different username to `pi` your *home* directory will have a different directory but it will always have the shortcut `~` as you can see at the start of the shell prompt.
+Wenn du einen anderen Benutzernamen als `pi` verwendest, wird dein *home* Verzeichnis ein anderes Verzeichnis haben, aber es wird immer die Abkürzung `~` haben, wie du am Anfang der Shell-Eingabeaufforderung sehen kannst.
 
-![shell prompt with ~ highlighted](images/hometilda.png)
+![Shell-Eingabeaufforderung mit ~ markiert](images/hometilda.png)
 
 \--- /task \---
 
-The **file system** is the way files and directories on your computer are organised. A computer's file system usually has a tree structure:
+Das **Dateisystem** ist die Art und Weise, wie Dateien und Verzeichnisse auf deinem Computer organisiert sind. Das Dateisystem eines Computers hat normalerweise eine Baumstruktur:
 
 |                                         |                                   |
 |:---------------------------------------:|:---------------------------------:|
-| ![File Manager](images/filemanager.png) | ![File Tree](images/filetree.png) |
+| ![Dateimanager](images/filemanager.png) | ![Dateibaum](images/filetree.png) |
 
 
-### Change directory
+### Ändere das Verzeichnis
 
-`cd` stands for 'change directory'. Just the same as you can click on a folder icon in a graphic file manager to go into it, `cd` lets you go into the directory you tell it. To get into a directory, just type the command `cd` followed by a space, and then the name of the directory and a forward slash `/`.
+`cd` steht für "change directory" (englisch für "Verzeichnis wechseln"). So wie du auf einen Ordnersymbol in einem grafischen Dateimanager klickst, um den Ordner zu öffnen, kannst du mit `cd` den genannten Ordner öffnen. Um in ein Verzeichnis zu gelangen, gibst du einfach den Befehl `cd` ein, gefolgt von einem Leerzeichen, dem Namen des Verzeichnisses und einem Schrägstrich `/`.
 
-\--- task \--- To try moving into a different directory, type `cd Documents/` and press <kbd>Enter</kbd>.
+\--- task \--- Versuche, in ein anderes Verzeichnis zu wechseln, tippe dazu `cd Documents/` ein und drücke die <kbd>Eingabetaste</kbd>.
 
     cd Documents/
     
 
 ![CD Documents](images/cddocuments.png)
 
-Now you've navigated into the `Documents` directory!
+Jetzt bist du in das `Dokumente` Verzeichnis gelangt!
 
-The terminal tells you here that you are in `Documents`:
+Das Terminal teilt dir hier mit, dass du dich in `Documents` befindest:
 
-![CD Documents path](images/cddocumentspath.png) \--- /task \---
+![CD Documents Pfad](images/cddocumentspath.png) \--- /task \---
 
-### Moving between directories
+### Zwischen Verzeichnissen wechseln
 
-\--- task \--- You can move up (or back, depending on how you want to imagine it) one directory in the file system by typing `cd` followed by a space and two full stops `..`, and then pressing <kbd>Enter</kbd>.
+\--- task \--- Du kannst ein Verzeichnis im Dateisystem nach oben gehen (oder zurück, je nachdem, wie du es dir vorstellen möchtest), indem du `cd` eingibst, gefolgt von einem Leerzeichen und zwei Punkten `..` und dann die <kbd>Eingabetaste</kbd> drückst.
 
     cd ..
     
 
-`cd ..` navigates up from `home/pi/Documents` back to `home/pi`.
+`cd ..` bringt dich von `home/pi/Documents` nach oben zu `home/pi` zurück.
 
-You can quickly check you're in the right directory using the `pwd` command:
+Mit dem `pwd` Befehl kannst du schnell überprüfen, ob du dich im richtigen Verzeichnis befindest:
 
-![CD DotDot Command](images/cddotdotcommand.png) \--- /task \---
+![CD PunktPunkt Befehl](images/cddotdotcommand.png) \--- /task \---
 
-Now you're ready to catch your first ghost!
+Jetzt bist du bereit, deinen ersten Geist zu fangen!

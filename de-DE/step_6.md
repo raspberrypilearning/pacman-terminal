@@ -1,16 +1,16 @@
-## Catch all the ghosts
+## Fange alle Geister
 
-\--- task \--- Now use all the commands you have learned in the last two steps to move around your Pi's file system and find, catch, and quarantine as many ghosts as you can.
+\--- task \--- Verwende nun alle Befehle, die du in den letzten beiden Schritten gelernt hast, um dich durch das Dateisystem deines Pis zu bewegen und so viele Geister wie möglich zu finden, zu fangen und unter Quarantäne zu stellen.
 
-Here's a reminder of all the commands you need to navigate the terminal:
+Hier ist eine Erinnerung an alle Befehle, die du zum Navigieren im Terminal benötigst:
 
 [[[command-line-navigation]]]
 
-Tips:
+Tipps:
 
-1. Remember to copy the ghosts to the quarantine folder before removing them
-2. Navigate to your quarantine folder to see how many ghosts you've caught
-3. If you want to navigate into a directory with a name that has more than one word in it (for example `My Movies`), use a `` before each blank space in the name (`cd My\ Movies`)
-4. There are seven ghosts in total — can you catch them all? \--- /task \---
+1. Denke daran, die Geister in den Quarantäneordner zu kopieren, bevor du sie entfernst
+2. Navigiere zu deinem Quarantäneordner, um zu sehen, wie viele Geister Du gefangen hast
+3. Wenn du ein Verzeichnis mit einem Namen öffnen möchtest, der mehr als ein Wort enthält (z. B. `Meine Filme`), verwende ein `` vor jedem Leerzeichen im Namen (`cd Meine\ Filme`)
+4. Es sind insgesamt sieben Geister - kannst du sie alle fangen? \--- /task \---
 
-Once you have caught as many ghosts as possible, collect your treasure in the next step!
+Sobald du so viele Geister wie möglich gefangen hast, kannst du im nächsten Schritt deinen Schatz sammeln!

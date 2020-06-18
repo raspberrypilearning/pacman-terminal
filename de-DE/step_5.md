@@ -1,30 +1,30 @@
-## Catch and quarantine your first ghost
+## Fange deinen ersten Geist und bringe ihn in Quarantäne
 
-In this step, you will create a **quarantine folder** to put your ghosts in. You will then catch all of the ghosts and stick them in this folder so that they stop ghosting around and harming your computer like viruses do.
+In diesem Schritt erstellst du einen **Quarantäneordner** um deine Geister dort hinein zu stecken. Danach wirst du alle Geister fangen und in diesen Ordner verbannen, damit sie nicht mehr herum geistern und deinem Computer schaden können, wie es Viren tun.
 
-A quarantine folder isolates suspicious files so they cannot harm your computer. They are usually made automatically by antivirus software and have additional programming attached to them — you will simulate what it is like to create one.
+In einem Quarantäneordner werden verdächtige Dateien isoliert, damit sie deinem Computer keinen Schaden zufügen können. Diese werden in der Regel automatisch von Antivirensoftware erstellt und mit zusätzlicher Programmierung versehen - du wirst simulieren, wie es ist so einen selbst zu erstellen.
 
-First off, you will learn to create your own directories in your file system!
+Zuerst lernst du, deine eigenen Verzeichnisse in deinem Dateisystem zu erstellen!
 
-\--- task \--- Next to the shell prompt, create a quarantine folder by typing `mkdir quarantine/` and pressing <kbd>Enter</kbd>.
+\--- task \--- Lege neben der Shell-Eingabeaufforderung einen Quarantäneordner an, indem du `mkdir Quarantäne/` eingibst. Drücke anschließend die <kbd>Eingabetaste</kbd>.
 
     mkdir quarantine/
     
 
-`mkdir` stands for 'make directory'. The command you typed in created a new directory called `quarantine` inside your *home* directory. In the image, you can see that I have also used the `ls` command to check that my directory exists:
+`mkdir` steht für "make directory" (englisch für "erstelle Verzeichnis"). Der von dir eingegebene Befehl hat ein neues Verzeichnis mit dem Namen `quarantine (engl. für Quarantäne)` in deinem *home* Verzeichnis erstellt. Auf dem Bild kannst du sehen, dass ich auch den `ls` Befehl verwendet habe, um zu überprüfen, ob mein Verzeichnis existiert:
 
-![MKDIR Command](images/mkdircommand.png) \--- /task \---
+![MKDIR Befehl](images/mkdircommand.png) \--- /task \---
 
-### Let's catch our first ghost!
+### Fangen wir unseren ersten Geist!
 
-\--- task \--- Navigate into the `Documents` directory using the commands you learned in the last step.
+\--- task \--- Navigiere in das `Documents` Verzeichnis mit den Befehlen, die du im letzten Schritt gelernt hast.
 
-\--- hints \--- \--- hint \--- Type this into your terminal window:
+\--- hints \--- \--- hint \--- Gib dies in dein Terminalfenster ein:
 
     cd Documents/
     
 
-\--- /hint \--- \--- hint \--- If that did not work, type `cd` first to navigate into your home directory, then try `cd Documents/`.
+\--- /hint \--- \--- hint \--- Falls das nicht geklappt hat, tippe zuerst `cd` ein, um zu deinem home Verzeichnis zu navigieren, und versuche dann `cd Documents/`.
 
     cd
     cd Documents/
@@ -32,45 +32,45 @@ First off, you will learn to create your own directories in your file system!
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
 
-\--- task \--- List all the files and directories in the `Documents` directory using the commands you learned in the last step.
+\--- task \--- Liste alle Dateien und Verzeichnisse im `Documents` Verzeichnis auf, indem du den Befehl benutzt, den du im letzten Schritt gelernt hast.
 
-\--- hints \--- \--- hint \--- Can you find out which command you should use in the drop-down information boxes above? \--- /hint \--- \--- hint \--- Use:
+\--- hints \--- \--- hint \--- Kannst du herausfinden, welchen Befehl du aus den Dropdown-Informationsfeldern oben verwenden solltest? \--- /hint \--- \--- hint \--- Verwende:
 
     ls
     
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
 
-\--- task \--- Look at the directories. Do you see anything strange that looks like it should not be there?
+\--- task \--- Sieh dir die Verzeichnisse an. Siehst du etwas Seltsames, das den Eindruck hinterlässt, es sollte eigentlich nicht da sein?
 
 ## \--- collapse \---
 
-## title: Click here when you've found your first ghost!
+## title: Klicke hier, wenn du deinen ersten Geist gefunden hast!
 
-That strange file named `sp00ky.txt` is a virus. If you've spotted it, you have found the first ghost!
+Diese seltsame Datei mit dem Namen `sp00ky.txt` ist ein Virus. Wenn du sie entdeckt hast, hast du deinen ersten Geist gefunden!
 
-You've found Spooky! ![Spooky Ghost](images/ghostspooky.png)
+Du hast Spooky gefunden! ![Der Geist Spooky](images/ghostspooky.png)
 
-You might have noticed that instead of being called `spooky.txt`, the virus is called `sp00ky.txt`. Hackers, both ethical and not so ethical, replace certain letters with numbers so they cannot be picked up in simple keyword searches. Keep that in mind when you are looking for the other ghosts. \--- /collapse \--- \--- /task \---
+Vielleicht hast du bemerkt, dass der Virus `sp00ky.txt` genannt wurde, statt `spooky.txt`. Sowohl ethische korrekte als auch nicht ganz so ethische Hacker ersetzen bestimmte Buchstaben durch Zahlen, sodass sie bei der einfachen Suche nach Stichwörtern nicht so leicht gefunden werden können. Denke daran, wenn du nach den anderen Geistern suchst. \--- /collapse \--- \--- /task \---
 
-### Copying files
+### Dateien kopieren
 
-\--- task \--- Copy the ghost and put it in the quarantine folder by typing:
+\--- task \--- Kopiere den Geist und lege ihn in den Quarantäneordner, indem du Folgendes eingibst:
 
     cp sp00ky.txt ~/quarantine/
     
 
-`cp` (for 'copy') is followed by the name of the file you want to copy and then the directory you want it copied into. Here, we copied the file `sp00ky.txt` and placed it in the `quarantine` folder in the *home* directory (`~`). \--- /task \---
+`cp` (für 'copy', englisch für "kopiere") wird gefolgt vom Namen der zu kopierenden Datei und dem Verzeichnis, in das sie kopiert werden soll. Hier haben wir die Datei `sp00ky.txt` kopiert und in den `Quarantäne` Ordner im *home* Verzeichnis (`~`) gelegt. \--- /task \---
 
-### Removing files
+### Dateien entfernen
 
-\--- task \--- Now remove the ghost by typing:
+\--- task \--- Entferne nun den Geist, indem du Folgendes eingibst:
 
     rm sp00ky.txt
     
 
-`rm` stands for 'remove' and deletes files (and directories). Here you have removed `sp00ky.txt` from the folder where you found it to stop it from doing damage. \--- /task \---
+`rm` steht für "remove" (englisch für "entfernen") und löscht Dateien (und Verzeichnisse). Hier hast du die Datei `sp00ky.txt` aus dem Ordner, in dem du sie gefunden hast, entfernt, um sie davon abzuhalten, Schaden anzurichten. \--- /task \---
 
-**Note:** be careful with using `rm` — it deletes things from your computer permanently! There isn't an 'undelete' command, so once you delete something with `rm`, it's gone forever. This is why we copied the file into a new directory before removing it.
+**Hinweis:** Sei vorsichtig bei der Verwendung von `rm`. Damit werden Dinge dauerhaft von deinem Computer gelöscht! Es gibt keinen Befehl, der das Löschen rückgängig macht, wenn du also etwas mit `rm` löschst, ist es für immer verschwunden. Aus diesem Grund haben wir die Datei in ein neues Verzeichnis kopiert, bevor wir sie gelöscht haben.
 
-You're now ready to safely catch all the ghosts!
+Du bist jetzt bereit, sicher alle Geister zu fangen!

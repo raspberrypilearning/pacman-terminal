@@ -1,34 +1,34 @@
-## Introduction
+## Einleitung
 
-Hack the Pi’s terminal and learn basic cybersecurity skills through a Pac-Man themed treasure hunt.
+Hacke das Pi-Terminal und lerne grundlegende Fähigkeiten der Cybersicherheit bei einer Pac-Man Schatzsuche.
 
-### What you will make
+### Was du machen wirst
 
-You will take the first steps towards being an awesome ethical hacker! This project will take you on a journey through your Pi's terminal and you'll learn to navigate the terminal and protect your computer against nasty attackers.
+Du wirst die ersten Schritte machen, um ein genialer, moralischer Hacker zu werden! Dieses Projekt führt dich auf eine Reise durch das Terminal deines Pis wobei du lernst, durch das Terminal zu navigieren und deinen Computer vor fiesen Angreifern zu schützen.
 
-![Project Preview](images/projectpreview.gif)
+![Projektvorschau](images/projectpreview.gif)
 
-During the treasure hunt, you will:
+Während der Schatzsuche wirst du:
 
-+ Be introduced to your mission: hack the terminal to find all the Pac-Man 'ghosts'
-+ Learn how to run a script to start the treasure hunt
-+ Find the ghosts and then quarantine them by creating your own safe directory
-+ Learn more about malware by inspecting the ghost files and getting rid of them
-+ Collect enough treasure points to complete the treasure hunt
++ Mit deiner Mission vertraut gemacht werden: hacke das Terminal und finde alle Pac-Man-Geister
++ Lernen, wie ein Skript ausgeführt wird, um die Schatzsuche zu beginnen
++ Die Geister finden und sie in Quarantäne bringen, indem du ein eigenes sicheres Verzeichnis erstellst
++ Mehr über Schadsoftware lernen, indem du die Geisterdateien überprüfst und los wirst
++ Genug Schätze sammeln, um die Schatzsuche erfolgreich abzuschließen
 
 \--- collapse \---
 
 * * *
 
-## title: What you will need
+## title: Was du brauchen wirst
 
 ### Hardware
 
-+ A Raspberry Pi with SD card and peripherals connected to the internet
++ Ein Raspberry Pi mit SD-Karte und Peripheriegeräten, die mit dem Internet verbunden sind
 
 ### Software
 
-You will need the latest version of [Raspbian](https://www.raspberrypi.org/downloads/), which already includes the following software:
+Du brauchst die neueste Version von [Raspbian](https://www.raspberrypi.org/downloads/), die bereits folgende Software enthält:
 
 + Terminal
 
@@ -38,21 +38,21 @@ You will need the latest version of [Raspbian](https://www.raspberrypi.org/downl
 
 * * *
 
-## title: What you will learn
+## title: Was du lernen wirst
 
-You will learn some basic hacking and find out about basic cybersecurity concepts and threats.
+Du wirst einige grundlegende Hacking-Methoden kennen lernen und bekommst einen Einblick in Cybersicherheits-Konzepte und Bedrohungen.
 
-You will also learn how to do these things in the terminal:
+Du wirst auch lernen, die folgenden Dinge im Terminal zu machen:
 
-+ Download and run a script
-+ Navigate your computer
-+ Create a directory
-+ Copy and move files around your computer
-+ Delete files
-+ Use the Nano software to view and close files
++ Ein Skript herunterladen und ausführen
++ Durch deinen Computer navigieren
++ Ein Verzeichnis erstellen
++ Dateien auf deinem Computer zu kopieren und zu verschieben
++ Dateien löschen
++ Die Software Nano zu nutzen, um Dateien anzuzeigen und wieder zu schließen
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
+Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
 
-- [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator/)
+- [Verwendung elementarer Programmiersprachelemente zur Erstellung einfacher Programme](https://www.raspberrypi.org/curriculum/programming/creator/)
 
 \--- /collapse \---

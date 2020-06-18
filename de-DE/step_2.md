@@ -1,32 +1,32 @@
-## Your mission
+## Deine Mission
 
-For this project, you will be Pac-Man:
+In diesem Projekt wirst du Pac-Man sein:
 
-![Pacman Image](images/pacmancharacter.png)
+![Pacman-Bild](images/pacmancharacter.png)
 
-However, instead of just being a hungry yellow circle, you are an ethical hacker and you must defend your computer from attackers!
+Aber anstatt nur ein hungriger gelber Kreis zu sein, bist du ein ethisch korrekter Hacker und musst deinen Computer vor Angreifern schützen!
 
-This is the situation: there is a huge problem with your computer system — it's being attacked by nasty viruses. These viruses are the Pac-Man ghosts:
+Das ist die Situation: Es gibt ein großes Problem mit deinem Computersystem - es wird von bösen Viren angegriffen. Diese Viren sind die Pac-Man-Geister:
 
-|                                         |        |                                       |       |                                         |        |                                       |       |
-|:---------------------------------------:|:------:|:-------------------------------------:|:-----:|:---------------------------------------:|:------:|:-------------------------------------:|:-----:|
-| ![Blinky Ghost](images/ghostblinky.png) | Blinky | ![Clyde Ghost](images/ghostclyde.png) | Clyde | ![Spooky Ghost](images/ghostspooky.png) | Spooky | ![Pinky Ghost](images/ghostpinky.png) | Pinky |
-|   ![Inky Ghost](images/ghostinky.png)   |  Inky  | ![Funky Ghost](images/ghostfunky.png) | Funky |    ![Sue Ghost](images/ghostsue.jpg)    |  Sue   |                                       |       |
-|                                         |        |                                       |       |                                         |        |                                       |       |
+|                                             |        |                                           |       |                                             |        |                                           |       |
+|:-------------------------------------------:|:------:|:-----------------------------------------:|:-----:|:-------------------------------------------:|:------:|:-----------------------------------------:|:-----:|
+| ![Der Geist Blinky](images/ghostblinky.png) | Blinky | ![Der Geist Clyde](images/ghostclyde.png) | Clyde | ![Der Geist Spooky](images/ghostspooky.png) | Spooky | ![Der Geist Pinky](images/ghostpinky.png) | Pinky |
+|   ![Der Geist Inky](images/ghostinky.png)   |  Inky  | ![Der Geist Funky](images/ghostfunky.png) | Funky |    ![Der Geist Sue](images/ghostsue.jpg)    |  Sue   |                                           |       |
+|                                             |        |                                           |       |                                             |        |                                           |       |
 
 
-Your goal is to catch and get rid of all of these ghosts! Once you have caught all the ghosts, you can go about collecting your treasure.
+Dein Ziel ist es, all diese Geister zu fangen und loszuwerden! Sobald Du alle Geister gefangen hast, kannst du deinen Schatz einsammeln.
 
-To catch the ghosts, you will need to navigate the maze that is your computer. You can navigate your Raspberry Pi computer by using **the command line**. The command line is a text interface for your computer that you can use to give commands to the computer's operating system. From the command line, you can navigate through files and folders on your computer, just as you would with Finder on macOS or Explorer on Windows. The difference is that the command line is fully text-based! The command line is a powerful tool, and with it you can run programs, write scripts to automate tasks, and combine simple commands to handle more difficult jobs.
+Um die Geister zu fangen, musst du durch das Labyrinth navigieren, das dein Computer sein wird. Du kannst mithilfe der **Befehlszeile** auf deinem Raspberry Pi navigieren. Die Befehlszeile ist eine Textschnittstelle für deinen Computer, mit der du dem Betriebssystem des Computers Befehle erteilen kannst. Über die Befehlszeile kannst du durch Dateien und Ordner auf deinem Computer navigieren, genau wie du es mit Finder unter macOS oder Explorer unter Windows tun würdest. Der Unterschied besteht darin, dass die Befehlszeile vollständig textbasiert ist! Die Befehlszeile ist ein leistungsfähiges Werkzeug, mit dem du Programme ausführen, Skripte zur Automatisierung von Aufgaben schreiben und einfache Befehle kombinieren kannst, um schwierigere Aufgaben zu bewältigen.
 
-So, to complete the treasure hunt you must:
+Um die Schatzsuche abzuschließen musst du also:
 
-1. Find the ghosts
-2. Trap the ghosts
-3. Collect your treasure
+1. Die Geister finden
+2. Die Geister fangen
+3. Deinen Schatz einsammeln
 
-\--- task \--- To access the command line on your Raspberry Pi, open a terminal window by clicking on the **Terminal** icon at the top of the screen, or select **Accessories** and then **Terminal** in the menu.
+\--- task \--- Um auf die Befehlszeile deines Raspberry Pi zuzugreifen, öffnest du ein Terminalfenster, indem du auf das **Terminal** Symbol oben auf dem Bildschirm klickst. Oder du wählst im Startmenü **Zubehör** und dann **Terminal**.
 
-![Find Terminal](images/find-terminal.png)
+![Finde das Terminal](images/find-terminal.png)
 
 \--- /task \---

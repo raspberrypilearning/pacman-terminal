@@ -1,34 +1,34 @@
 ---
-title: Pac-Man treasure hunt on the terminal
+title: Pac-Man-Schatzsuche im Terminal
 hero_image: images/banner.png
-description: Hack your Pi's terminal to find all the Pac-Man ghosts
-theme: yellow
+description: Hacke das Terminal deines Pis, um alle Pac-Man-Geister zu finden
+theme: gelb #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: games
+interests: Spiele
 technologies: ''
-site_areas: projects
+site_areas: Projekte
 hardware: ''
-software: python
+software: Python
 version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Einleitung
   - 
-    title: Your mission
+    title: Deine Mission
   - 
-    title: Start the treasure hunt
+    title: Beginne die Schatzsuche
   - 
-    title: Move around the Pi terminal
+    title: Bewege dich im Pi-Terminal
   - 
-    title: Catch your first ghost
+    title: Fange deinen ersten Geist
   - 
-    title: Catch all the ghosts
+    title: Fange alle Geister
   - 
-    title: Find the treasure
+    title: Finde den Schatz
   - 
-    title: "Challenge: get rid of the quarantine folder"
+    title: "Herausforderung: Lösche den Quarantäneordner"

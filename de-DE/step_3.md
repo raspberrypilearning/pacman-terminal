@@ -1,26 +1,26 @@
-## Start the treasure hunt
+## Beginne die Schatzsuche
 
-To start the treasure hunt, you will need to download a file that will unleash the Pac-Man ghosts! Please note that **you will not download real viruses** by completing this step. The files you'll download are completely safe and cannot do any damage to your computer.
+Um die Schatzsuche zu starten, musst du eine Datei herunterladen, welche die Pac-Man-Geister frei lässt! Bitte beachte, dass du **keine echten Viren herunterlädst**, wenn du diesen Schritt ausführst. Die Dateien, die du herunterlädst, sind komplett sicher und können deinem Computer keinen Schaden zufügen.
 
-In the terminal, you can download and open files or scripts very easily using **bash**. Bash is a program that listens to your commands and does what you tell it to do. Hackers are concerned with problems in computer systems and programs, and they need to give commands to find these problems and fix them. Therefore, they need to be good at using commands in programs like bash.
+Im Terminal kannst du mit **bash** sehr einfach Dateien oder Skripte herunterladen und öffnen. Bash ist ein Programm, das auf deine Befehle hört und das tut, was du von ihm verlangst. Hacker kümmern sich um Probleme in Computersystemen und Programmen. Daher müssen sie Befehle erteilen, um solche Probleme zu finden und zu beheben. Daher müssen sie gut darin sein, Befehle in Programmen wie bash zu verwenden.
 
-\--- task \--- To access bash, make sure you have opened a terminal window.
+\--- task \--- Um auf Bash zugreifen zu können, musst du ein Terminalfenster geöffnet haben.
 
-In the terminal, you will see `$`. This is called a **shell prompt**. It appears when the terminal is ready to accept a command.
+Im Terminal wird `$` angezeigt. Dies wird als **Shell-Eingabeaufforderung** (oder english: prompt) bezeichnet. Es wird angezeigt, wenn das Terminal bereit ist, einen Befehl anzunehmen.
 
-![Shell Prompt](images/shellprompt.png)
+![Shell-Eingabeaufforderung](images/shellprompt.png)
 
-Next to the `$` (the shell prompt), type or copy and paste:
+Tippe den folgenden Befehl neben dem `$` (die Shell-Eingabeaufforderung) ein oder kopiere ihn und füge ihn anschließend ein:
 
     wget -O - http://rpf.io/pacmanstart | bash
     
 
 \--- /task \---
 
-\--- task \--- Press the <kbd>Enter</kbd> key to run this line of code. You will see a lot of text appear in the terminal. This means it is downloading the files to start the treasure hunt.
+\--- task \--- Drücke die <kbd>Eingabetaste</kbd>, um diese Codezeile auszuführen. Im Terminal wird anschließend viel Text angezeigt. Das bedeutet, dass die Dateien heruntergeladen werden, um die Schatzsuche zu beginnen.
 
-**Note:** the `| bash` command at the end tells bash to automatically run the file after it is downloaded. Using this command is generally not very secure, because it means the downloaded files will be run without you checking them first. However, here it is the easiest way to start the treasure hunt, and it also shows you how easy it is to download viruses. \--- /task \---
+**Hinweis:** der `| bash` Befehl am Ende weist bash an, die Datei nach dem Herunterladen automatisch auszuführen. Die Verwendung dieses Befehls ist generell nicht sehr sicher, da die heruntergeladenen Dateien ausgeführt werden, ohne dass du sie zuerst überprüfen kannst. Dennoch ist es hier der einfachste Weg, um die Schatzsuche zu beginnen. Und du siehst wie einfach es ist, Viren herunterzuladen. \--- /task \---
 
-\--- task \--- Press <kbd>Ctrl l</kbd> to clear the terminal window. \--- /task \---
+\--- task \--- Drücke <kbd>Strg l</kbd> um den Inhalt des Terminalfensters zu löschen. \--- /task \---
 
-Next you'll learn how to navigate the command line so you can start finding and catching the ghosts.
+Als Nächstes lernst du, wie du in der Befehlszeile navigieren kannst, um die Geister zu finden und zu fangen.

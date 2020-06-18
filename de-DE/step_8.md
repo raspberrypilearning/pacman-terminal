@@ -1,7 +1,7 @@
-## Challenge: get rid of the quarantine folder
+## Herausforderung: Lösche den Quarantäneordner
 
-Now that you have finished finding all the ghosts, you must clear your computer of any harmful files.
+Nachdem du nun alle Geister gefunden hast, musst du deinen Computer von allen schädlichen Dateien befreien.
 
-+ Delete the whole `quarantine` folder without copying any of the files in it. Use this link [www.raspberrypi.org/documentation/linux/usage/commands.md](https://www.raspberrypi.org/documentation/linux/usage/commands.md) or look up online how to **recursively remove** a directory.
++ Lösche den gesamten `Quarantäne` Ordner, ohne eine der Dateien zu kopieren. Verwende diesen Link [www.raspberrypi.org/documentation/linux/usage/commands.md](https://www.raspberrypi.org/documentation/linux/usage/commands.md) oder sieh online nach, wie du ein Verzeichnis **rekursiv entfernen** kannst.
 
-+ Check the folder has been deleted by listing the contents of your home directory.
++ Überprüfe, ob der Ordner gelöscht wurde, indem du den Inhalt deines home-Verzeichnisses auflistest.

@@ -2,17 +2,17 @@
 title: Pac-Man-Schatzsuche im Terminal
 hero_image: images/banner.png
 description: Hacke das Terminal deines Pis, um alle Pac-Man-Geister zu finden
-theme: gelb #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: yellow #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: Spiele
+interests: games
 technologies: ''
-site_areas: Projekte
+site_areas: projects
 hardware: ''
-software: Python
+software: python
 version: 4
 last_tested: 2017-01-01
 steps:

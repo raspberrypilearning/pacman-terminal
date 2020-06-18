@@ -1,24 +1,24 @@
-## Find the treasure
+## Finde den Schatz
 
-Now that you have found all the ghosts and put them in a safe folder so they cannot damage your computer, you will look inside the files to collect your treasure.
+Nachdem du alle Geister gefunden und in einem sicheren Ordner abgelegt hast, damit sie deinen Computer nicht beschädigen, wirst du die Dateien durchsuchen, um deinen Schatz zu sammeln.
 
-Here is all the treasure you can collect and the points you get when you find the treasure:
+Hier findest du alle Schätze, die du sammeln kannst und die Punkte, die du für jeden erhältst:
 
-|                  Treasure                  |               | Points |
-|:------------------------------------------:|:-------------:|:------:|
-|     ![Cherry](images/fruitcherry.png)      |    Cherry     |  100   |
-| ![Strawberry](images/fruitstrawberry.png)  |  Strawberry   |  300   |
-|      ![Peach](images/fruitpeach.png)       |     Peach     |  500   |
-|      ![Apple](images/fruitapple.png)       |     Apple     |  700   |
-|     ![Grapes](images/fruitgrapes.png)      |    Grapes     |  1000  |
-| ![Galaxian Boss](images/fruitgalaxian.png) | Galaxian Boss |  2000  |
-|       ![Bell](images/fruitbell.png)        |     Bell      |  3000  |
-|        ![Key](images/fruitkey.png)         |      Key      |  5000  |
+|                       Schatz                        |                        | Punkte |
+|:---------------------------------------------------:|:----------------------:|:------:|
+|         ![Kirsche](images/fruitcherry.png)          |        Kirsche         |  100   |
+|       ![Erdbeere](images/fruitstrawberry.png)       |        Erdbeere        |  300   |
+|         ![Pfirsich](images/fruitpeach.png)          |        Pfirsich        |  500   |
+|           ![Apfel](images/fruitapple.png)           |         Apfel          |  700   |
+|         ![Trauben](images/fruitgrapes.png)          |        Trauben         |  1000  |
+| ![Galaktischer Endgegner](images/fruitgalaxian.png) | Galaktischer Endgegner |  2000  |
+|           ![Glocke](images/fruitbell.png)           |         Glocke         |  3000  |
+|          ![Schlüssel](images/fruitkey.png)          |       Schlüssel        |  5000  |
 
 
-\--- task \--- Navigate to your `quarantine/` directory, and then list the contents of the directory to see all the ghosts you have caught.
+\--- task \--- Navigiere zu deinem `Quarantäne/` Verzeichnis und liste dann den Inhalt des Verzeichnisses auf, um alle gefangenen Geister anzuzeigen.
 
-\--- hints \--- \--- hint \--- Use the `cd` command followed by the name of the directory, then use the `ls` command. \--- /hint \--- \--- hint \---
+\--- Hinweise \--- \--- Hinweis \--- Verwende den `cd` Befehl gefolgt vom Namen des Verzeichnisses, anschließend den `ls` Befehl. \--- /hint \--- \--- hint \---
 
     cd quarantine/
     ls
@@ -26,24 +26,24 @@ Here is all the treasure you can collect and the points you get when you find th
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
 
-### Collect your treasure
+### Sammle deinen Schatz
 
-\--- task \--- See what treasure you got from catching Spooky!
+\--- task \--- Schau welchen Schatz du durch das Fangen von Spooky bekommen hast!
 
-To view a text file, type `cat` followed by the full name of the file into the terminal window, and then press <kbd>Enter</kbd>:
+Um eine Textdatei anzusehen, tippe `cat` gefolgt vom vollständigen Namen der Datei im Terminalfenster ein und drücke die <kbd>Eingabetaste</kbd>:
 
     cat sp00ky.txt
     
 
 \--- /task \---
 
-\--- task \--- You should see some treasure.
+\--- task \--- Du solltest einige Schätze sehen können.
 
-![Find Treasure](images/findtreasure.png) \--- /task \---
+![Finde den Schatz](images/findtreasure.png) \--- /task \---
 
-\--- task \--- In the Scratch program below, click on the treasure you've found inside `sp00ky.txt` to tally up your points, and then repeat these last three instructions to collect treasure from all of your ghost files.
+\--- task \--- Klicke im Scratch-Programm unten auf die Schätze, die du in `sp00ky.txt` gefunden hast, um deine Punkte zu zählen, und wiederhole dann diese letzten drei Anweisungen um die Schätze von all deinen Geisterdateien zu sammeln.
 
-When you've finished clicking all the treasure you have found, click the **Finish** button to see how you did. \--- /task \---
+Wenn du alle Schätze angeklickt hast, die du gefunden hast, klicke auf den **Finish** Knopf, um zu sehen, wie du abgeschnitten hast. \--- /task \---
 
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/226468273/?autostart=false" frameborder="0" allowfullscreen mark="crwd-mark"></iframe>

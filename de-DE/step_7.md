@@ -28,7 +28,7 @@ Hier findest du alle Schätze, die du sammeln kannst und die Punkte, die du für
 
 ### Sammle deinen Schatz
 
-\--- task \--- Schau welchen Schatz du durch das Fangen von Spooky bekommen hast!
+\--- task \--- Schau, welchen Schatz du durch das Fangen von Spooky bekommen hast!
 
 Um eine Textdatei anzusehen, tippe `cat` gefolgt vom vollständigen Namen der Datei im Terminalfenster ein und drücke die <kbd>Eingabetaste</kbd>:
 

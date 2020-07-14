@@ -12,7 +12,7 @@ Während der Schatzsuche wirst du:
 
 + Mit deiner Mission vertraut gemacht werden: hacke das Terminal und finde alle Pac-Man-Geister
 + Lernen, wie ein Skript ausgeführt wird, um die Schatzsuche zu beginnen
-+ Die Geister finden und sie in Quarantäne bringen, indem du ein eigenes sicheres Verzeichnis erstellst
++ Die Geister finden und sie in Quarantäne bringen, indem du ein eigenes, sicheres Verzeichnis erstellst
 + Mehr über Schadsoftware lernen, indem du die Geisterdateien überprüfst und los wirst
 + Genug Schätze sammeln, um die Schatzsuche erfolgreich abzuschließen
 

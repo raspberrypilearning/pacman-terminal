@@ -28,7 +28,8 @@ Das Verzeichnis oder der Ordner, in dem du dich befindest, enthält daher die fo
     pwd
 ```    
 
-Du solltest folgendes Ergebnis bekommen (in der roten Box): ![PWD Befehl](images/pwdcommand.png)
+Du solltest folgendes Ergebnis bekommen (in der roten Box): 
+![PWD Befehl](images/pwdcommand.png)
 
 Hier kannst du sehen, dass du dich im Verzeichnis `/home/pi` befindest. Das bedeutet, dass du dich im `pi` Verzeichnis befindest, welches wiederum im `home` Verzeichnis gespeichert ist. (Die `/` Symbole sind nicht Teil der Verzeichnisnamen, die Befehlszeile nutzt sie nur um dir Verzeichnisse anzuzeigen.)
 
@@ -44,9 +45,10 @@ Wenn du einen anderen Benutzernamen als `pi` verwendest, wird dein *home* Verzei
 
 Das **Dateisystem** ist die Art und Weise, wie Dateien und Verzeichnisse auf deinem Computer organisiert sind. Das Dateisystem eines Computers hat normalerweise eine Baumstruktur:
 
-|                                         |                                   |
-|:---------------------------------------:|:---------------------------------:|
-| ![Dateimanager](images/filemanager.png) | ![Dateibaum](images/filetree.png) |
+|                                              |                                              |
+| :------------------------------------------: | :------------------------------------------: |
+| ![File Manager](images/filemanager.png)      | ![File Tree](images/filetree.png)            |
+
 
 
 ### Ändere das Verzeichnis

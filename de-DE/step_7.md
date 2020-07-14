@@ -18,7 +18,7 @@ Hier findest du alle Schätze, die du sammeln kannst und die Punkte, die du für
 
 --- task --- Navigiere zu deinem `Quarantäne/` Verzeichnis und liste dann den Inhalt des Verzeichnisses auf, um alle gefangenen Geister anzuzeigen.
 
---- Hinweise --- --- Hinweis --- Verwende den `cd` Befehl gefolgt vom Namen des Verzeichnisses, anschließend den `ls` Befehl.
+--- hints --- --- hint --- Verwende den `cd` Befehl gefolgt vom Namen des Verzeichnisses, anschließend den `ls` Befehl.
 --- /hint ---
  --- hint ---
 ```

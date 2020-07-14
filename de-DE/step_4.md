@@ -21,9 +21,9 @@ Das Verzeichnis oder der Ordner, in dem du dich befindest, enthält daher die fo
 
 ### Arbeitsverzeichnis ausgeben
 
-`pwd` steht für "print working directory" (das ist englisch und heißt: "gib das Arbeitsverzeichnis aus"). Dieser Befehl zeigt an, wo du dich im **Dateisystem** des Pi's befindest. Das heißt, er sagt dir, in welchem Verzeichnis du gerade in der Befehlszeile bist - dein Arbeitsverzeichnis! Du kannst diesen Befehl jederzeit benutzen um dich zu orientieren.
+`pwd` steht für 'print working directory' (das ist Englisch und heißt: "gib das Arbeitsverzeichnis aus"). Dieser Befehl zeigt an, wo du dich im **Dateisystem** des Pi's befindest. Das heißt, er sagt dir, in welchem Verzeichnis du gerade in der Befehlszeile bist - deinem Arbeitsverzeichnis! Du kannst diesen Befehl jederzeit benutzen, um dich zu orientieren.
 
-\--- task \--- Gebe `pwd` ein und drücke die <kbd>Eingabetaste</kbd>.
+\--- task \--- Gib `pwd` ein und drücke die <kbd>Eingabetaste</kbd>.
 
     pwd
     
@@ -34,7 +34,7 @@ Hier kannst du sehen, dass du dich im Verzeichnis `/home/pi` befindest. Das bede
 
 **Hinweis:**
 
-Dieses Verzeichnis ist dein *home* Verzeichnis (also dein "Heimat-Ordner"). Dort kannst du alle deine Dateien speichern.
+Dieses Verzeichnis ist dein *home* Verzeichnis (also dein 'Heimat-Ordner'). Dort kannst du alle deine Dateien speichern.
 
 Wenn du einen anderen Benutzernamen als `pi` verwendest, wird dein *home* Verzeichnis ein anderes Verzeichnis haben, aber es wird immer die Abkürzung `~` haben, wie du am Anfang der Shell-Eingabeaufforderung sehen kannst.
 
@@ -51,7 +51,7 @@ Das **Dateisystem** ist die Art und Weise, wie Dateien und Verzeichnisse auf dei
 
 ### Ändere das Verzeichnis
 
-`cd` steht für "change directory" (englisch für "Verzeichnis wechseln"). So wie du auf einen Ordnersymbol in einem grafischen Dateimanager klickst, um den Ordner zu öffnen, kannst du mit `cd` den genannten Ordner öffnen. Um in ein Verzeichnis zu gelangen, gibst du einfach den Befehl `cd` ein, gefolgt von einem Leerzeichen, dem Namen des Verzeichnisses und einem Schrägstrich `/`.
+`cd` steht für 'change directory' (Englisch für 'Verzeichnis wechseln'). So wie du auf ein Ordnersymbol in einem grafischen Dateimanager klickst, um den Ordner zu öffnen, kannst du mit `cd` den genannten Ordner öffnen. Um in ein Verzeichnis zu gelangen, gibst du einfach den Befehl `cd` ein, gefolgt von einem Leerzeichen, dem Namen des Verzeichnisses und einem Schrägstrich `/`.
 
 \--- task \--- Versuche, in ein anderes Verzeichnis zu wechseln, tippe dazu `cd Documents/` ein und drücke die <kbd>Eingabetaste</kbd>.
 

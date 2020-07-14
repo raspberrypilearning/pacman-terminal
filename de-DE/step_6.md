@@ -1,6 +1,6 @@
 ## Fange alle Geister
 
-\--- task \--- Verwende nun alle Befehle, die du in den letzten beiden Schritten gelernt hast, um dich durch das Dateisystem deines Pis zu bewegen und so viele Geister wie möglich zu finden, zu fangen und unter Quarantäne zu stellen.
+\--- task \--- Verwende nun alle Befehle, die du in den letzten beiden Schritten gelernt hast, um dich durch das Dateisystem deines Pi's zu bewegen und so viele Geister wie möglich zu finden, zu fangen und unter Quarantäne zu stellen.
 
 Hier ist eine Erinnerung an alle Befehle, die du zum Navigieren im Terminal benötigst:
 

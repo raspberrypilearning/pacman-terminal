@@ -2,7 +2,7 @@
 
 In diesem Schritt erstellst du einen **Quarantäneordner** um deine Geister dort hinein zu stecken. Danach wirst du alle Geister fangen und in diesen Ordner verbannen, damit sie nicht mehr herum geistern und deinem Computer schaden können, wie es Viren tun.
 
-In einem Quarantäneordner werden verdächtige Dateien isoliert, damit sie deinem Computer keinen Schaden zufügen können. Diese werden in der Regel automatisch von Antivirensoftware erstellt und mit zusätzlicher Programmierung versehen - du wirst simulieren, wie es ist so einen selbst zu erstellen.
+In einem Quarantäneordner werden verdächtige Dateien isoliert, damit sie deinem Computer keinen Schaden zufügen können. Diese werden in der Regel automatisch von Antivirensoftware erstellt und mit zusätzlicher Programmierung versehen - du wirst simulieren, wie es ist, so einen selbst zu erstellen.
 
 Zuerst lernst du, deine eigenen Verzeichnisse in deinem Dateisystem zu erstellen!
 
@@ -11,7 +11,7 @@ Zuerst lernst du, deine eigenen Verzeichnisse in deinem Dateisystem zu erstellen
     mkdir quarantine/
     
 
-`mkdir` steht für "make directory" (englisch für "erstelle Verzeichnis"). Der von dir eingegebene Befehl hat ein neues Verzeichnis mit dem Namen `quarantine (engl. für Quarantäne)` in deinem *home* Verzeichnis erstellt. Auf dem Bild kannst du sehen, dass ich auch den `ls` Befehl verwendet habe, um zu überprüfen, ob mein Verzeichnis existiert:
+`mkdir` steht für 'make directory' (englisch für 'erstelle Verzeichnis'). Der von dir eingegebene Befehl hat ein neues Verzeichnis mit dem Namen `quarantine (engl. für Quarantäne)` in deinem *home* Verzeichnis erstellt. Auf dem Bild kannst du sehen, dass ich auch den `ls` Befehl verwendet habe, um zu überprüfen, ob mein Verzeichnis existiert:
 
 ![MKDIR Befehl](images/mkdircommand.png) \--- /task \---
 
@@ -51,7 +51,7 @@ Diese seltsame Datei mit dem Namen `sp00ky.txt` ist ein Virus. Wenn du sie entde
 
 Du hast Spooky gefunden! ![Der Geist Spooky](images/ghostspooky.png)
 
-Vielleicht hast du bemerkt, dass der Virus `sp00ky.txt` genannt wurde, statt `spooky.txt`. Sowohl ethische korrekte als auch nicht ganz so ethische Hacker ersetzen bestimmte Buchstaben durch Zahlen, sodass sie bei der einfachen Suche nach Stichwörtern nicht so leicht gefunden werden können. Denke daran, wenn du nach den anderen Geistern suchst. \--- /collapse \--- \--- /task \---
+Vielleicht hast du bemerkt, dass der Virus `sp00ky.txt` genannt wurde, statt `spooky.txt`. Sowohl ethisch korrekte als auch nicht ganz so ethische Hacker ersetzen bestimmte Buchstaben durch Zahlen, sodass sie bei der einfachen Suche nach Stichwörtern nicht so leicht gefunden werden können. Denke daran, wenn du nach den anderen Geistern suchst. \--- /collapse \--- \--- /task \---
 
 ### Dateien kopieren
 
@@ -73,4 +73,4 @@ Vielleicht hast du bemerkt, dass der Virus `sp00ky.txt` genannt wurde, statt `sp
 
 **Hinweis:** Sei vorsichtig bei der Verwendung von `rm`. Damit werden Dinge dauerhaft von deinem Computer gelöscht! Es gibt keinen Befehl, der das Löschen rückgängig macht, wenn du also etwas mit `rm` löschst, ist es für immer verschwunden. Aus diesem Grund haben wir die Datei in ein neues Verzeichnis kopiert, bevor wir sie gelöscht haben.
 
-Du bist jetzt bereit, sicher alle Geister zu fangen!
+Du bist jetzt bereit, alle Geister sicher zu einzufangen!

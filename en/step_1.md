@@ -1,10 +1,10 @@
 ## Introduction
 
-Hack the Pi’s terminal and learn basic cybersecurity skills through a Pac-Man themed treasure hunt.
+Hack the Raspberry Pi's terminal and learn basic cybersecurity skills through a Pac-Man–themed treasure hunt.
 
 ### What you will make
 
-You will take the first steps towards being an awesome ethical hacker! This project will take you on a journey through your Pi's terminal and you'll learn to navigate the terminal and protect your computer against nasty attackers.
+You will take the first steps towards being an awesome ethical hacker! This project will take you on a journey through your Raspberry Pi's terminal and you'll learn to navigate the terminal and protect your computer against nasty attackers.
 
 ![Project Preview](images/projectpreview.gif)
 
@@ -23,11 +23,11 @@ title: What you will need
 
 ### Hardware
 
-+ A Raspberry Pi with SD card and peripherals connected to the internet
++ A Raspberry Pi computer with SD card and peripherals connected to the internet
 
 ### Software
 
-You will need the latest version of [Raspbian](https://www.raspberrypi.org/downloads/), which already includes the following software:
+You will need the latest version of [Raspberry Pi OS](https://www.raspberrypi.org/downloads/), which already includes the following software:
 
 + Terminal
 

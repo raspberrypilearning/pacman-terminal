@@ -12,7 +12,7 @@ Next to the shell prompt, create a quarantine folder by typing `mkdir quarantine
 mkdir quarantine/
 ```
 
-`mkdir` stands for 'make directory'. The command you typed in created a new directory called `quarantine` inside your *home* directory. In the image, you can see that I have also used the `ls` command to check that my directory exists:
+`mkdir` stands for 'make directory'. The command you typed in created a new directory called `quarantine` inside your `home` directory. In the image, you can see that I have also used the `ls` command to check that my directory exists:
 
 ![MKDIR Command](images/mkdircommand.png)
 --- /task ---
@@ -31,7 +31,7 @@ cd Documents/
 ```
 --- /hint ---
 --- hint ---
-If that did not work, type `cd` first to navigate into your home directory, then try `cd Documents/`.
+If that did not work, type `cd` first to navigate into your `home` directory, then try `cd Documents/`.
 ```
 cd
 cd Documents/
@@ -45,7 +45,7 @@ List all the files and directories in the `Documents` directory using the comman
 
 --- hints ---
 --- hint ---
-Can you find out which command you should use in the drop-down information boxes above?
+Can you find the right command to use from the screenshot of the terminal above?
 --- /hint ---
 --- hint ---
 Use:
@@ -63,7 +63,7 @@ Look at the directories. Do you see anything strange that looks like it should n
 ---
 title: Click here when you've found your first ghost!
 ---
-That strange file named `sp00ky.txt` is a virus. If you've spotted it, you have found the first ghost!
+That strange file named `sp00ky.txt` represents a virus. If you've spotted it, you have found the first ghost!
 
 You've found Spooky!
 ![Spooky Ghost](images/ghostspooky.png)
@@ -79,7 +79,7 @@ Copy the ghost and put it in the quarantine folder by typing:
 ```
 cp sp00ky.txt ~/quarantine/
 ```
-`cp` (for 'copy') is followed by the name of the file you want to copy and then the directory you want it copied into. Here, we copied the file `sp00ky.txt` and placed it in the `quarantine` folder in the *home* directory (`~`).
+`cp` (for 'copy') is followed by the name of the file you want to copy and then the directory you want it copied into. Here, we copied the file `sp00ky.txt` and placed it in the `quarantine` folder in the `home` directory (`~`).
 --- /task ---
 
 

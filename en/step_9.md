@@ -1,10 +1,10 @@
 ## What next?
 
-Well done! You have just completed the fourth project in the Raspberry Pi beginner pathway.
+Well done! You have just completed the fourth project in the [Raspberry Pi for beginners](https://projects.raspberrypi.org/en/pathways/raspberry-pi-beginners) pathway.
 
 Next, try the fifth (and final) project in the pathway, [Create a new command on Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-command/){:target="_blank"}. 
 
-### The complete Raspberry Pi beginner pathway
+### The complete Raspberry Pi for beginners pathway
  
 + [Setting up your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/){:target="_blank"}
 + [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using/){:target="_blank"}

@@ -1,6 +1,6 @@
-## Move around the Pi terminal
+## Move around the Raspberry Pi terminal
 
-In this step, you will learn how to get Pac-Man to navigate the Pi's terminal, just like when Pac-Man moves around his maze.
+In this step, you will learn how to get Pac-Man to navigate your Raspberry Pi's terminal, just like when Pac-Man moves around his maze.
 
 ![Pacman Gif](images/pacmangiphy.gif)
 
@@ -25,7 +25,7 @@ The directory, or folder you are in, therefore contains these directories:
 
 ### Print working directory
 
-`pwd` stands for 'print working directory'. This command shows where you are in the Pi's **file system**, meaning it tells you what directory you are currently in in the command line — your working directory! You can use this command at any time to not get lost.
+`pwd` stands for 'print working directory'. This command shows where you are in your Raspberry Pi's **file system**, meaning it tells you what directory you are currently in in the command line — your working directory! You can use this command at any time to not get lost.
 
 --- task ---
 Type `pwd` and press <kbd>Enter</kbd>.
@@ -35,13 +35,13 @@ pwd
 This is what you should get (results in the red box):
 ![PWD Command](images/pwdcommand.png)
 
-Here you can see that you are in the `/home/pi` directory. This means you're inside the `pi` directory, which itself is stored inside the `home` directory. (The `/` symbols aren't part of the directory names, the command line just uses them to show you directories.)
+Here you can see that you are in the `/home/pi` directory. This means you're inside the `pi` directory, which itself is stored inside the `home` directory. (The `/` symbols aren't part of the directory names; the command line just uses them to show you directories.)
 
 **Note:** 
 
-This directory is your *home* directory it is where you can save all your files. 
+This directory is your `home` directory. It is where you can save all your files. 
 
-If you are using a different username to `pi` your *home* directory will have a different directory but it will always have the shortcut `~` as you can see at the start of the shell prompt.
+If you are using a different username to `pi`, your `home` directory will have a different directory, but it will always have the shortcut `~`, as you can see at the start of the shell prompt.
 
 ![shell prompt with ~ highlighted](images/hometilda.png)
 

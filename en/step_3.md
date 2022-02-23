@@ -13,7 +13,7 @@ In the terminal, you will see `$`. This is called a **shell prompt**. It appears
 
 Next to the `$` (the shell prompt), type or copy and paste:
 ```
-wget -O - http://rpf.io/pacmanstart | bash
+wget -O - https://rpf.io/pacmanstart | bash
 ```
 --- /task ---
 

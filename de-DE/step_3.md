@@ -12,7 +12,7 @@ Im Terminal wird `$` angezeigt. Dies wird als **Shell-Eingabeaufforderung** (ode
 
 Tippe den folgenden Befehl neben dem `$` (die Shell-Eingabeaufforderung) ein oder kopiere ihn und füge ihn anschließend ein:
 
-    wget -O - http://rpf.io/pacmanstart | bash
+    wget -O - https://rpf.io/pacmanstart | bash
     
 
 --- /task ---

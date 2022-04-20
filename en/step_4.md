@@ -35,13 +35,13 @@ pwd
 This is what you should get (results in the red box):
 ![PWD Command](images/pwdcommand.png)
 
-Here you can see that you are in the `/home/pi` directory. This means you're inside the `pi` directory, which itself is stored inside the `home` directory. (The `/` symbols aren't part of the directory names; the command line just uses them to show you directories.)
+Here you can see that you are in your home directory. It will be called `/home/username`. The `username` will have been set by you when you first booted your Raspberry Pi. This means you're inside the `username` directory, which itself is stored inside the `home` directory. (The `/` symbols aren't part of the directory names; the command line just uses them to show you directories.)
 
 **Note:** 
 
 This directory is your `home` directory. It is where you can save all your files. 
 
-If you are using a different username to `pi`, your `home` directory will have a different directory, but it will always have the shortcut `~`, as you can see at the start of the shell prompt.
+Although different users will have different home directories, it will always have the shortcut `~`, as you can see at the start of the shell prompt.
 
 ![shell prompt with ~ highlighted](images/hometilda.png)
 

@@ -1,7 +1,8 @@
+---
 title: Pac-Man treasure hunt on the terminal
 hero_image: images/banner.png
 description: Hack your Raspberry Pi's terminal to find all the Pac-Man ghosts
-theme: yellow # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: yellow
 duration: 2
 listed: true
 ingredient: false
@@ -19,8 +20,12 @@ steps:
 - title: Your mission
 - title: Start the treasure hunt
 - title: Move around the Raspberry Pi terminal
+  completion:
+  - engaged
 - title: Catch your first ghost
 - title: Catch all the ghosts
 - title: Find the treasure
-- title: "Challenge: get rid of the quarantine folder"
+  completion:
+  - internal
+- title: 'Challenge: get rid of the quarantine folder'
 - title: What next?

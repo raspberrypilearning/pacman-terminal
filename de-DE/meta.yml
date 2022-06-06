@@ -17,12 +17,14 @@ version: 4
 last_tested: 2017-01-01
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Deine Mission
 - title: Beginne die Schatzsuche
 - title: Bewege dich im Pi-Terminal
+  completion:
+  - engaged
 - title: Fange deinen ersten Geist
 - title: Fange alle Geister
 - title: Finde den Schatz
-  completion: internal
+  completion:
+  - internal
 - title: 'Herausforderung: Lösche den Quarantäneordner'

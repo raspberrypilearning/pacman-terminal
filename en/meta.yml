@@ -17,13 +17,15 @@ version: 4
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Your mission
 - title: Start the treasure hunt
 - title: Move around the Raspberry Pi terminal
+  completion:
+  - engaged
 - title: Catch your first ghost
 - title: Catch all the ghosts
 - title: Find the treasure
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: get rid of the quarantine folder'
 - title: What next?

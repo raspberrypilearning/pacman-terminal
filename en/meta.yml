@@ -1,9 +1,7 @@
 ---
----
 title: Pac-Man treasure hunt on the terminal
 hero_image: images/banner.png
 description: Hack your Raspberry Pi's terminal to find all the Pac-Man ghosts
-theme: yellow
 theme: yellow
 duration: 2
 listed: true
@@ -22,8 +20,6 @@ steps:
 - title: Your mission
 - title: Start the treasure hunt
 - title: Move around the Raspberry Pi terminal
-  completion:
-  - engaged
   completion:
   - engaged
 - title: Catch your first ghost

@@ -4,7 +4,9 @@
 
 The `ls` ('list') command lists the files and **directories** (folders) inside the current directory.
 
-\--- task \--- Gib nach der Shell-Eingabeaufforderung `ls` ein und drücke die <kbd>Eingabetaste</kbd>.
+\--- task \---
+
+After the shell prompt, type `ls` and press <kbd>Enter</kbd>.
 
 Stelle dabei sicher, dass du den Buchstaben `l` wie in "leben" eingibst und nicht die Zahl `1`.
 
@@ -23,7 +25,9 @@ The `pwd` command shows your current (working) directory.
 
 You can use this command any time you get lost!
 
-\--- task \--- Gib `pwd` ein und drücke die <kbd>Eingabetaste</kbd>.
+\--- task \---
+
+Type `pwd` and press <kbd>Enter</kbd>.
 
     pwd
     
@@ -49,18 +53,24 @@ Das **Dateisystem** ist die Art und Weise, wie Dateien und Verzeichnisse auf dei
 
 `cd` steht für 'change directory' (Englisch für 'Verzeichnis wechseln').
 
-\--- task \--- Type `cd Documents` and press <kbd>Enter</kbd>.
+\--- task \---
+
+Type `cd Documents` and press <kbd>Enter</kbd>.
 
     cd Documents
     
 
 Now you've changed into the `Documents` directory.
 
-![CD Documents Pfad](images/cddocumentspath.png) \--- /task \---
+![CD Documents Pfad](images/cddocumentspath.png)
+
+\--- /task \---
 
 ### Zwischen Verzeichnissen wechseln
 
-\--- task \--- Type `cd` followed by a space and two full stops `..`, and then pressing <kbd>Enter</kbd>.
+\--- task \---
+
+Type `cd` followed by a space and two full stops `..`, and then pressing <kbd>Enter</kbd>.
 
     cd ..
     
@@ -69,4 +79,6 @@ Now you've changed into the `Documents` directory.
 
 Mit dem `pwd` Befehl kannst du schnell überprüfen, ob du dich im richtigen Verzeichnis befindest:
 
-![CD PunktPunkt Befehl](images/cddotdotcommand.png) \--- /task \---
+![CD PunktPunkt Befehl](images/cddotdotcommand.png)
+
+\--- /task \---

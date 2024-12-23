@@ -1,53 +1,45 @@
-## Fange deinen ersten Geist und bringe ihn in Quarantäne
+## Catch your first ghost
 
-In diesem Schritt erstellst du einen **Quarantäneordner** um deine Geister dort hinein zu stecken. Danach wirst du alle Geister fangen und in diesen Ordner verbannen, damit sie nicht mehr herum geistern und deinem Computer schaden können, wie es Viren tun.
+Create a quarantine directory in your `home` directory.
 
-In einem Quarantäneordner werden verdächtige Dateien isoliert, damit sie deinem Computer keinen Schaden zufügen können. Diese werden in der Regel automatisch von Antivirensoftware erstellt und mit zusätzlicher Programmierung versehen - du wirst simulieren, wie es ist, so einen selbst zu erstellen.
-
-Zuerst lernst du, deine eigenen Verzeichnisse in deinem Dateisystem zu erstellen!
-
-\--- task \--- Lege neben der Shell-Eingabeaufforderung einen Quarantäneordner an, indem du `mkdir Quarantäne/` eingibst. Drücke anschließend die <kbd>Eingabetaste</kbd>.
+\--- task \--- Type `mkdir quarantine/` and press <kbd>Enter</kbd>.
 
     mkdir quarantine/
     
 
-`mkdir` steht für 'make directory' (englisch für 'erstelle Verzeichnis'). Der von dir eingegebene Befehl hat ein neues Verzeichnis mit dem Namen `quarantine (engl. für Quarantäne)` in deinem *home* Verzeichnis erstellt. Auf dem Bild kannst du sehen, dass ich auch den `ls` Befehl verwendet habe, um zu überprüfen, ob mein Verzeichnis existiert:
+`mkdir` steht für 'make directory' (englisch für 'erstelle Verzeichnis').
+
+The `ls` command checks that directory exists:
 
 ![MKDIR Befehl](images/mkdircommand.png) \--- /task \---
 
-### Fangen wir unseren ersten Geist!
+\--- task \---
 
-\--- task \--- Navigiere in das `Documents` Verzeichnis mit den Befehlen, die du im letzten Schritt gelernt hast.
+Navigate into the `Documents` directory.
 
-\--- hints \--- \--- hint \--- Gib dies in dein Terminalfenster ein:
-
-    cd Documents/
+    cd Documents
     
 
-\--- /hint \--- \--- hint \--- Falls das nicht geklappt hat, tippe zuerst `cd` ein, um zu deinem home Verzeichnis zu navigieren, und versuche dann `cd Documents/`.
+\--- /task \---
 
-    cd
-    cd Documents/
-    
+\--- task \---
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
-
-\--- task \--- Liste alle Dateien und Verzeichnisse im `Documents` Verzeichnis auf, indem du den Befehl benutzt, den du im letzten Schritt gelernt hast.
-
-\--- hints \--- \--- hint \--- Kannst du herausfinden, welchen Befehl du aus den Dropdown-Informationsfeldern oben verwenden solltest? \--- /hint \--- \--- hint \--- Verwende:
+List all the files and directories in the `Documents` directory using the commands you learned in the last step.
 
     ls
     
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- /task \---
 
-\--- task \--- Sieh dir die Verzeichnisse an. Siehst du etwas Seltsames, das den Eindruck hinterlässt, es sollte eigentlich nicht da sein?
+\--- task \---
+
+Do you see anything that should not be there?
 
 ## \--- collapse \---
 
 ## title: Klicke hier, wenn du deinen ersten Geist gefunden hast!
 
-Diese seltsame Datei mit dem Namen `sp00ky.txt` ist ein Virus. Wenn du sie entdeckt hast, hast du deinen ersten Geist gefunden!
+That strange file named `sp00ky.txt` is the first ghost!
 
 Du hast Spooky gefunden! ![Der Geist Spooky](images/ghostspooky.png)
 
@@ -55,12 +47,12 @@ Vielleicht hast du bemerkt, dass der Virus `sp00ky.txt` genannt wurde, statt `sp
 
 ### Dateien kopieren
 
-\--- task \--- Kopiere den Geist und lege ihn in den Quarantäneordner, indem du Folgendes eingibst:
+\--- task \--- Copy the ghost and put it in the quarantine directory by typing:
 
     cp sp00ky.txt ~/quarantine/
     
 
-`cp` (für 'copy', englisch für "kopiere") wird gefolgt vom Namen der zu kopierenden Datei und dem Verzeichnis, in das sie kopiert werden soll. Hier haben wir die Datei `sp00ky.txt` kopiert und in den `Quarantäne` Ordner im *home* Verzeichnis (`~`) gelegt. \--- /task \---
+`cp` (für 'copy', englisch für "kopiere") wird gefolgt vom Namen der zu kopierenden Datei und dem Verzeichnis, in das sie kopiert werden soll. Here, we copied the file `sp00ky.txt` and placed it in the `quarantine` directory in the `home` directory (`~`). \--- /task \---
 
 ### Dateien entfernen
 
@@ -69,8 +61,6 @@ Vielleicht hast du bemerkt, dass der Virus `sp00ky.txt` genannt wurde, statt `sp
     rm sp00ky.txt
     
 
-`rm` steht für "remove" (englisch für "entfernen") und löscht Dateien (und Verzeichnisse). Hier hast du die Datei `sp00ky.txt` aus dem Ordner, in dem du sie gefunden hast, entfernt, um sie davon abzuhalten, Schaden anzurichten. \--- /task \---
+`rm` stands for 'remove' and deletes files (or directories). \--- /task \---
 
 **Hinweis:** Sei vorsichtig bei der Verwendung von `rm`. Damit werden Dinge dauerhaft von deinem Computer gelöscht! Es gibt keinen Befehl, der das Löschen rückgängig macht, wenn du also etwas mit `rm` löschst, ist es für immer verschwunden. Aus diesem Grund haben wir die Datei in ein neues Verzeichnis kopiert, bevor wir sie gelöscht haben.
-
-Du bist jetzt bereit, alle Geister sicher zu einzufangen!

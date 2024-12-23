@@ -15,10 +15,18 @@ Next to the `$` (the shell prompt), type or copy and paste:
 
 \--- /task \---
 
-\--- task \--- Press the <kbd>Enter</kbd> key to run this line of code.
+\--- task \---
+
+Press the <kbd>Enter</kbd> key to run this line of code.
 
 You will see a lot of text appear in the terminal. This means it is downloading the files to start the treasure hunt.
 
-**Note:** the `| bash` command at the end tells bash to automatically run the file after it is downloaded. Using this command is generally not very secure, because it means the downloaded files will be run without you checking them first. However, here it is the easiest way to start the treasure hunt, and it also shows you how easy it is to download viruses. \--- /task \---
+**Note:** the `| bash` command at the end tells bash to automatically run the file after it is downloaded. Using this command is generally not very secure, because it means the downloaded files will be run without you checking them first. However, here it is the easiest way to start the treasure hunt, and it also shows you how easy it is to download viruses.
 
-\--- task \--- Press <kbd>Ctrl l</kbd> to clear the terminal window. \--- /task \---
+\--- /task \---
+
+\--- task \---
+
+Press <kbd>Ctrl l</kbd> to clear the terminal window.
+
+\--- /task \---

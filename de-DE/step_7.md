@@ -16,7 +16,9 @@ Hier findest du alle Schätze, die du sammeln kannst und die Punkte, die du für
 |          ![Schlüssel](images/fruitkey.png)          |       Schlüssel        |  5000  |
 
 
-\--- task \--- Navigate to your `quarantine/` directory and list the contents of the directory to see all the ghosts you have caught.
+\--- task \---
+
+Navigate to your `quarantine/` directory and list the contents of the directory to see all the ghosts you have caught.
 
     cd quarantine/
     ls
@@ -41,7 +43,9 @@ You should see some treasure.
 
 ![Three pieces of treasure inside the sp00ky.txt file](images/findtreasure.png)
 
-\--- task \--- In the Scratch program at the end of this step, click on the treasure you've found inside `sp00ky.txt` to add up your points.
+\--- task \---
+
+In the Scratch program at the end of this step, click on the treasure you've found inside `sp00ky.txt` to add up your points.
 
 **Don't click 'Finish' yet**.
 
@@ -51,7 +55,9 @@ You should see some treasure.
 
 View the treasure inside the other ghost files you caught and click it in the Scratch program.
 
-Wenn du alle Schätze angeklickt hast, die du gefunden hast, klicke auf den **Finish** Knopf, um zu sehen, wie du abgeschnitten hast. \--- /task \---
+Wenn du alle Schätze angeklickt hast, die du gefunden hast, klicke auf den **Finish** Knopf, um zu sehen, wie du abgeschnitten hast.
+
+\--- /task \---
 
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/226468273/?autostart=false" frameborder="0" allowfullscreen></iframe>

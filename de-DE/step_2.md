@@ -4,9 +4,7 @@ In diesem Projekt wirst du Pac-Man sein:
 
 ![Pacman-Bild](images/pacmancharacter.png)
 
-Aber anstatt nur ein hungriger gelber Kreis zu sein, bist du ein ethisch korrekter Hacker und musst deinen Computer vor Angreifern schützen!
-
-Das ist die Situation: Es gibt ein großes Problem mit deinem Computersystem - es wird von bösen Viren angegriffen. Diese Viren sind die Pac-Man-Geister:
+However, instead of just being a hungry yellow circle, you are an ethical hacker and you must defend your computer from nasty viruses. Diese Viren sind die Pac-Man-Geister:
 
 |                                             |        |                                           |       |                                             |        |                                           |       |
 |:-------------------------------------------:|:------:|:-----------------------------------------:|:-----:|:-------------------------------------------:|:------:|:-----------------------------------------:|:-----:|
@@ -15,18 +13,16 @@ Das ist die Situation: Es gibt ein großes Problem mit deinem Computersystem - e
 |                                             |        |                                           |       |                                             |        |                                           |       |
 
 
-Dein Ziel ist es, all diese Geister zu fangen und loszuwerden! Sobald Du alle Geister gefangen hast, kannst du deinen Schatz einsammeln.
+Your goal is to catch and get rid of all of these ghosts.
 
-Um die Geister zu fangen, musst du durch das Labyrinth navigieren, das dein Computer sein wird. Du kannst mithilfe der **Befehlszeile** auf deinem Raspberry Pi navigieren. Die Befehlszeile ist eine Textschnittstelle für deinen Computer, mit der du dem Betriebssystem des Computers Befehle erteilen kannst. Über die Befehlszeile kannst du durch Dateien und Ordner auf deinem Computer navigieren, genau wie du es mit Finder unter macOS oder Explorer unter Windows tun würdest. Der Unterschied besteht darin, dass die Befehlszeile vollständig textbasiert ist! Die Befehlszeile ist ein leistungsfähiges Werkzeug, mit dem du Programme ausführen, Skripte zur Automatisierung von Aufgaben schreiben und einfache Befehle kombinieren kannst, um schwierigere Aufgaben zu bewältigen.
+Once you have caught all the ghosts, you can collect your treasure.
 
-Um die Schatzsuche abzuschließen musst du also:
+Du kannst mithilfe der **Befehlszeile** auf deinem Raspberry Pi navigieren.
 
-1. Die Geister finden
-2. Die Geister fangen
-3. Deinen Schatz einsammeln
+\--- task \---
 
-\--- task \--- Um auf die Befehlszeile deines Raspberry Pi zuzugreifen, öffnest du ein Terminalfenster, indem du auf das **Terminal** Symbol oben auf dem Bildschirm klickst. Oder du wählst im Startmenü **Zubehör** und dann **Terminal**.
+Open a terminal window by clicking on the **Terminal** icon at the top of the screen, or select **Accessories** and then **Terminal** in the menu.
 
-![Finde das Terminal](images/find-terminal.png)
+![Finde das Terminal](images/find-terminal2.png)
 
 \--- /task \---

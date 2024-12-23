@@ -1,6 +1,6 @@
 ## Finde den Schatz
 
-Nachdem du alle Geister gefunden und in einem sicheren Ordner abgelegt hast, damit sie deinen Computer nicht beschädigen, wirst du die Dateien durchsuchen, um deinen Schatz zu sammeln.
+Now that you have found and quarantined all the ghosts, you need to check the files to collect your treasure.
 
 Hier findest du alle Schätze, die du sammeln kannst und die Punkte, die du für jeden erhältst:
 
@@ -16,35 +16,43 @@ Hier findest du alle Schätze, die du sammeln kannst und die Punkte, die du für
 |          ![Schlüssel](images/fruitkey.png)          |       Schlüssel        |  5000  |
 
 
-\--- task \--- Navigiere zu deinem `Quarantäne/` Verzeichnis und liste dann den Inhalt des Verzeichnisses auf, um alle gefangenen Geister anzuzeigen.
-
-\--- Hinweise \--- \--- Hinweis \--- Verwende den `cd` Befehl gefolgt vom Namen des Verzeichnisses, anschließend den `ls` Befehl. \--- /hint \--- \--- hint \---
+\--- task \--- Navigate to your `quarantine/` directory and list the contents of the directory to see all the ghosts you have caught.
 
     cd quarantine/
     ls
     
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- /task \---
 
 ### Sammle deinen Schatz
 
-\--- task \--- Schau, welchen Schatz du durch das Fangen von Spooky bekommen hast!
+See what treasure you got from catching Spooky!
 
-Um eine Textdatei anzusehen, tippe `cat` gefolgt vom vollständigen Namen der Datei im Terminalfenster ein und drücke die <kbd>Eingabetaste</kbd>:
+\--- task \---
+
+To view a text file, type `cat` followed by the full name of the file and then press <kbd>Enter</kbd>:
 
     cat sp00ky.txt
     
 
 \--- /task \---
 
-\--- task \--- Du solltest einige Schätze sehen können.
+You should see some treasure.
 
-![Finde den Schatz](images/findtreasure.png) \--- /task \---
+![Three pieces of treasure inside the sp00ky.txt file](images/findtreasure.png)
 
-\--- task \--- Klicke im Scratch-Programm unten auf die Schätze, die du in `sp00ky.txt` gefunden hast, um deine Punkte zu zählen, und wiederhole dann diese letzten drei Anweisungen um die Schätze von all deinen Geisterdateien zu sammeln.
+\--- task \--- In the Scratch program at the end of this step, click on the treasure you've found inside `sp00ky.txt` to add up your points.
+
+**Don't click 'Finish' yet**.
+
+\--- /task \---
+
+\--- task \---
+
+View the treasure inside the other ghost files you caught and click it in the Scratch program.
 
 Wenn du alle Schätze angeklickt hast, die du gefunden hast, klicke auf den **Finish** Knopf, um zu sehen, wie du abgeschnitten hast. \--- /task \---
 
 <div class="scratch-preview">
-<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/226468273/?autostart=false" frameborder="0" allowfullscreen mark="crwd-mark"></iframe>
+<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/226468273/?autostart=false" frameborder="0" allowfullscreen></iframe>
 </div>

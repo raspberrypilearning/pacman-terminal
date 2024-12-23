@@ -5,6 +5,7 @@
 The `ls` ('list') command lists the files and **directories** (folders) inside the current directory.
 
 --- task ---
+
 After the shell prompt, type `ls` and press <kbd>Enter</kbd>. 
 
 Make sure you type the letter `l` as in "lime" and not the number `1`.
@@ -26,6 +27,7 @@ The `pwd` command shows your current (working) directory.
 You can use this command any time you get lost!
 
 --- task ---
+
 Type `pwd` and press <kbd>Enter</kbd>.
 ```
 pwd
@@ -53,6 +55,7 @@ The **file system** is the way files and directories on your computer are organi
 `cd` stands for 'change directory'. 
 
 --- task ---
+
 Type `cd Documents` and press <kbd>Enter</kbd>.
 ```
 cd Documents
@@ -61,11 +64,13 @@ cd Documents
 Now you've changed into the `Documents` directory.
 
 ![CD Documents path](images/cddocumentspath.png)
+
 --- /task ---
 
 ### Moving between directories
 
 --- task ---
+
 Type `cd` followed by a space and two full stops `..`, and then pressing <kbd>Enter</kbd>.
 ```
 cd ..
@@ -75,4 +80,5 @@ cd ..
 You can quickly check you're in the right directory using the `pwd` command:
 
 ![CD DotDot Command](images/cddotdotcommand.png)
+
 --- /task ---
